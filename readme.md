@@ -70,10 +70,6 @@ An AI agent that helps analysts explore environmental data.
 A macroeconomic dashboard for understanding business cycles and testing multi agent orchestration.  
 `Python · Plotly · Streamlit`
 
-### Little Money Mind  
-A browser based educational game designed for my son and his friends to learn digital money concepts through stories, choices and simple mechanics. Includes printable versions for offline play.  
-`HTML · CSS · JavaScript · Game design · Print-ready assets`
-
 ## 🛠️ Tech and tools
 
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
