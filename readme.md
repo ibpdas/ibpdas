@@ -18,12 +18,10 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Public_Good-F5A623?logo=gov.uk&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Strategy-1D70B8" />
 <img src="https://img.shields.io/badge/AI_Agents-4CAF50" />
-<img src="https://img.shields.io/badge/Open_Data-0288D1" />
-<img src="https://img.shields.io/badge/Safe_Experimentation-795548" />
-<img src="https://img.shields.io/badge/Systems_Thinking-9C27B0" />
-<img src="https://img.shields.io/badge/Open_Knowledge-00897B" />
+<img src="https://img.shields.io/badge/Data_Provenance-1A73E8" />
+<img src="https://img.shields.io/badge/Blockchain-121212?logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3-0A0A0A?logo=web3dotjs&logoColor=white" />
 
 </div>
 
