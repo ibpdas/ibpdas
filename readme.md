@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/AI_Agents-4CAF50" />
 <img src="https://img.shields.io/badge/Data_Provenance-1A73E8" />
 <img src="https://img.shields.io/badge/Blockchain-121212?logo=chainlink&logoColor=white" />
-<img src="https://img.shields.io/badge/Web3-0A0A0A?logo=web3dotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_Knowledge-00897B" /
 
 </div>
 
