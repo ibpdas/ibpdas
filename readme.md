@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Bandhu 👋</h1>
 
 <p align="center">
-   Accountant turned Data and AI Strategist. Builder of practical AI and data tools for public good.100% Open source. Maximum transparency. 
+   Accountant turned Data and AI Strategist. Builder of practical AI and data tools for public good. 100% Open source. 
 </p>
 
 <p align="center">
