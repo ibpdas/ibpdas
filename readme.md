@@ -73,7 +73,7 @@ A macroeconomic dashboard for understanding business cycles and testing multi ag
 ### Public Data Provenance Blockchain
 
 A lightweight Web3 prototype demonstrating how blockchain can provide tamper-evident provenance for public datasets.
-Solidity · Hardhat · Next.js · wagmi · viem · SHA-256
+`Solidity · Hardhat · Next.js · wagmi · viem · SHA-256`
 
 ## 🛠️ Tech and tools
 
