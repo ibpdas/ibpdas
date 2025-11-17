@@ -90,32 +90,27 @@
 
   <hr />
 
-  <!-- Tech and tools -->
   <h2>🛠️ Tech and tools</h2>
 
-  <div style="display:flex; flex-wrap:wrap; gap:6px;">
-
-    <img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-
-    <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/wagmi-0052FF" />
-    <img src="https://img.shields.io/badge/viem-4E44CE" />
-    <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
-
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" />
-
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
-
-  </div>
-
-  <hr />
+<p>
+  <img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/wagmi-0052FF" />
+  <img src="https://img.shields.io/badge/viem-4E44CE" />
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
+</p>
 
   <!-- AI principles -->
   <h2>🤖 How I use AI</h2>
