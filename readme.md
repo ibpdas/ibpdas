@@ -65,29 +65,29 @@
 
   <p>These are the projects I am most actively developing and improving.</p>
 
-  <h3>Public Data Provenance Blockchain</h3>
+  <h3>ValueLine Model: Data Strategy Impact Dashboard</h3>
   <p>
-    A lightweight Web3 prototype that shows how blockchain can provide tamper evident provenance for public datasets.
+    A three level causal model that helps leaders understand how foundational enablers, organisational maturity and outcomes connect.
   </p>
-  <p><code>Solidity · Hardhat · Next.js · wagmi · viem · SHA-256</code></p>
+  <p><code>Systems thinking · HTML · CSS · JavaScript</code></p>
 
   <h3>Data Strategy Accelerator</h3>
   <p>
     A workshoping tool that helps public sector teams design impactful and realistic data strategies.
   </p>
   <p><code>Python · Streamlit · Plotly</code></p>
+  
+  <h3>Public Data Provenance Blockchain</h3>
+  <p>
+    A lightweight Web3 prototype that shows how blockchain can provide tamper evident provenance for public datasets.
+  </p>
+  <p><code>Solidity · Hardhat · Next.js · wagmi · viem · SHA-256</code></p>
 
   <h3>MacroCycle AI Agent</h3>
   <p>
     A macroeconomic dashboard and multi agent orchestration experiment for understanding business cycles.
   </p>
   <p><code>Python · Plotly · Streamlit</code></p>
-
-  <h3>Data Strategy Impact Dashboard</h3>
-  <p>
-    A three level causal model that helps leaders understand how foundational enablers, organisational maturity and outcomes connect.
-  </p>
-  <p><code>Systems thinking · HTML · CSS · JavaScript</code></p>
 
   <h3>EnViro Data Agent</h3>
   <p>
