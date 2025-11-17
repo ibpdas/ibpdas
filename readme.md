@@ -44,6 +44,12 @@ I like building tools that help people:
 Most of my work combines strategic thinking with hands on building.  
 My approach is lightweight, iterative and focused on clarity.
 
+<p align="center">
+  <a href="https://github.com/ibpdas?tab=repositories">Repositories</a> ·
+  <a href="https://www.linkedin.com/in/ibpdas/">LinkedIn</a>
+</p>
+
+
 ---
 
 ## 🔭 What I am building right now
@@ -57,7 +63,7 @@ A three level causal model and visual dashboard that helps public sector leaders
 `Systems thinking · Visual diagnostics · Strategy evaluation`
 
 ### EnViro AI Agent  
-An portal to discover and access open environmental data sources, categorised by domain for efficient research and analysis.  
+AI assisted curation that helps analysts explore indicators across environment, agriculture and inflation with clarity.  
 `APIs · AI agents · Curation`
 
 ### MacroCycle AI Agent  
@@ -65,9 +71,8 @@ A macroeconomic dashboard for understanding business cycles and testing multi ag
 `Python · Plotly · Streamlit`
 
 ### Little Money Mind  
-A gaming and learning project created for my son and his friends to teach digital money concepts through simple games and printables.
-
----
+A browser based educational game designed for my son and his friends to learn digital money concepts through stories, choices and simple mechanics. Includes printable versions for offline play.  
+`HTML · CSS · JavaScript · Game design · Print-ready assets`
 
 ## 🛠️ Tech and tools
 
