@@ -57,7 +57,7 @@ A three level causal model and visual dashboard that helps public sector leaders
 `Systems thinking · Visual diagnostics · Strategy evaluation`
 
 ### EnViro AI Agent  
-AI assisted curation that helps analysts explore indicators across environment, agriculture and inflation with clarity.  
+An portal to discover and access open environmental data sources, categorised by domain for efficient research and analysis.  
 `APIs · AI agents · Curation`
 
 ### MacroCycle AI Agent  
