@@ -81,7 +81,7 @@
 
   <h3>MacroCycle AI Agent</h3>
   <p>
-    A macroeconomic dashboard and multi agent orchestration experiment for understanding business cycles.
+    An AI-assisted multi agent orchestration experiment for inferring macroeconomic business cycles using USA datasets.
   </p>
   <p><code>Python · Plotly · Streamlit</code></p>
 
