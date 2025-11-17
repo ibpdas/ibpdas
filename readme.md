@@ -33,7 +33,7 @@
 
 I work at the intersection of data, policy and tech in the UK public sector.
 
-My background spans accounting, analytics, data science and data strategy.  
+My background spans finance, analytics, data science and data strategy.  
 Over time I have become interested in how people, systems and incentives shape how organisations use data and AI.
 
 I like building tools that help people:
