@@ -60,7 +60,7 @@ A workshoping tool for building impactful data strategies in the public sector.
 
 ### Data Strategy Impact Dashboard  
 A three level causal model based anaytics that helps public sector leaders understand how foundational enablers, organisational maturity and outcomes connect to demonstrate data strategy impact.  
-`Systems thinking · Visual diagnostics · Strategy evaluation`
+`Systems thinking · HTML / CSS / JavaScript · Strategy evaluation`
 
 ### EnViro AI Agent  
 An AI agent that helps analysts explore environmental data.  
