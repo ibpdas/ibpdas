@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Bandhu 👋</h1>
 
 <p align="center">
-   Accountant turned Data and AI Strategist. Builder of practical AI and data tools for public good. 100% Open source. 
+   Accountant turned data and AI strategist. I build practical tools for public good that help people understand systems, use data well and experiment safely with AI. Open source by default.
 </p>
 
 <p align="center">
@@ -18,10 +18,10 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Public_Good-F5A623?logo=gov.uk&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Confidence-4CAF50?logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Open_Data-1D70B8" />
+<img src="https://img.shields.io/badge/Data_Strategy-1D70B8" />
+<img src="https://img.shields.io/badge/AI_Agents-4CAF50" />
+<img src="https://img.shields.io/badge/Open_Data-0288D1" />
 <img src="https://img.shields.io/badge/Safe_Experimentation-795548" />
-<img src="https://img.shields.io/badge/Continuous_Learning-0288D1" />
 <img src="https://img.shields.io/badge/Systems_Thinking-9C27B0" />
 <img src="https://img.shields.io/badge/Open_Knowledge-00897B" />
 
@@ -31,67 +31,65 @@
 
 ## 👤 About me
 
-I work at the intersection of data, policy and tech in the UK public sector.
+I work at the intersection of data, policy and technology in the UK public sector.  
+My background spans finance, analytics, forecasting, data science and data strategy.
 
-My background spans finance, analytics, data science and data strategy.  
-Over time I have become interested in how people, systems and incentives shape how organisations use data and AI.
+My focus areas:
+- designing practical and context aware data strategies  
+- exploring data to support evidence based decisions  
+- building AI agents and analytical tools that are simple and useful  
+- helping teams experiment safely and understand emerging technologies  
 
-I like building tools that help people:
-- develop practical and context aware data strategy  
-- explore data and make sense of evidence  
-- experiment safely with AI agents  
-
-Most of my work combines strategic thinking with hands on building.  
-My approach is iterative and focused on fast actions.
-
-<p align="center">
-  <a href="https://github.com/ibpdas?tab=repositories">Repositories</a> ·
-  <a href="https://www.linkedin.com/in/ibpdas/">LinkedIn</a>
-</p>
-
+I enjoy combining strategic thinking with hands on building.  
+My style is iterative, collaborative and action oriented.
 
 ---
 
-## 🔭 What I am building right now
+## 🔍 Featured work
 
-### Data Strategy Accelerator  
-A workshoping tool for building impactful data strategies in the public sector.  
+These are the projects I am most actively developing and improving.
+
+### **Public Data Provenance Blockchain**
+A Web3 prototype showing how blockchain can provide tamper evident provenance for public data.  
+`Solidity · Hardhat · Next.js · wagmi · viem · SHA-256`
+
+### **Data Strategy Accelerator**  
+A workshoping tool that helps public sector teams design impactful and realistic data strategies.  
 `Python · Streamlit · Plotly`
 
-### Data Strategy Impact Dashboard  
-A three level causal model based anaytics that helps public sector leaders understand how foundational enablers, organisational maturity and outcomes connect to demonstrate data strategy impact.  
-`Systems thinking · HTML / CSS / JavaScript · Strategy evaluation`
-
-### EnViro Data Agent  
-An AI agent that helps analysts explore environmental data.  
-`APIs · AI agents · Curation`
-
-### MacroCycle AI Agent  
-A macroeconomic dashboard for understanding business cycles and testing multi agent orchestration.  
+### **MacroCycle AI Agent**  
+A macroeconomic dashboard and multi agent orchestration experiment.  
 `Python · Plotly · Streamlit`
 
-### Public Data Provenance Blockchain
+### **Data Strategy Impact Dashboard**  
+A three level causal model to help leaders understand how data foundations, maturity and outcomes connect.  
+`Systems thinking · HTML · CSS · JavaScript`
 
-A lightweight Web3 prototype demonstrating how blockchain can provide tamper-evident provenance for public datasets.
-`Solidity · Hardhat · Next.js · wagmi · viem · SHA-256`
+### **EnViro Data Agent**  
+An AI agent that helps analysts explore environmental and agricultural data.  
+`APIs · AI agents · Curation`
+
+---
 
 ## 🛠️ Tech and tools
 
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
 
-<!-- Languages -->
 <img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 
-<!-- Frameworks -->
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/wagmi-0052FF" />
+<img src="https://img.shields.io/badge/viem-4E44CE" />
+<img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" />
 
-<!-- Tools -->
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
 
@@ -99,32 +97,31 @@ A lightweight Web3 prototype demonstrating how blockchain can provide tamper-evi
 
 ---
 
-
 ## 🤖 How I use AI
 
 I treat AI tools like multidisciplinary collaborators.  
 
-My principles are:
+My principles:
 - human led insight  
 - provenance and transparency  
 - clarity of assumptions  
 - safe experimentation  
-- value over complexity
-- public good 
+- value over complexity  
+- public good  
 
 ---
 
 ## 🤝 Collaboration
 
 I enjoy working with:
-- Public sector teams who want clear and practical data roadmaps  
-- Analysts who want to communicate evidence with clarity  
-- Builders experimenting with AI agents
+- public sector teams building data strategies  
+- analysts improving clarity and sensemaking  
+- builders exploring AI agents, blockchains, explainability and provenance  
 
-If you want to collaborate, feel free to open an issue or connect on LinkedIn.
+Feel free to reach out through issues or LinkedIn.
 
 ---
 
 <p align="center">
-  <sub>All views are personal. Projects here are side experiments created for learning and public good.</sub>
+  <sub>All views are personal. Projects are side experiments created for learning and public good.</sub>
 </p>
