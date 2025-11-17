@@ -79,7 +79,6 @@ A browser based educational game designed for my son and his friends to learn di
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
 
 <!-- Languages -->
-
 <img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
@@ -87,13 +86,11 @@ A browser based educational game designed for my son and his friends to learn di
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 
 <!-- Frameworks -->
-
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" />
 
 <!-- Tools -->
-
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
 
