@@ -70,6 +70,11 @@ An AI agent that helps analysts explore environmental data.
 A macroeconomic dashboard for understanding business cycles and testing multi agent orchestration.  
 `Python · Plotly · Streamlit`
 
+### Public Data Provenance Blockchain
+
+A lightweight Web3 prototype demonstrating how blockchain can provide tamper-evident provenance for public datasets.
+Solidity · Hardhat · Next.js · wagmi · viem · SHA-256
+
 ## 🛠️ Tech and tools
 
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
