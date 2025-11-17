@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Bandhu 👋</h1>
 
 <p align="center">
-   Qualified Accountant turned Data and AI Strategist. Builder of practical AI and data tools.
+   Accountant turned Data and AI Strategist. Builder of practical AI and data tools for public good.100% Open source. Maximum transparency. 
 </p>
 
 <p align="center">
@@ -31,18 +31,18 @@
 
 ## 👤 About me
 
-I work at the intersection of data strategy, public policy and AI in the UK public sector.
+I work at the intersection of data, policy and tech in the UK public sector.
 
-My background spans accounting, forecasting, analytics, data science and enterprise data strategy.  
-Over time I have become interested in how people, systems and incentives shape how organisations use data.
+My background spans accounting, analytics, data science and data strategy.  
+Over time I have become interested in how people, systems and incentives shape how organisations use data and AI.
 
 I like building tools that help people:
-- understand data strategy and organisational maturity  
-- explore indicators and make sense of evidence  
+- develop practical and context aware data strategy  
+- explore data and make sense of evidence  
 - experiment safely with AI agents  
 
 Most of my work combines strategic thinking with hands on building.  
-My approach is lightweight, iterative and focused on clarity.
+My approach is iterative and focused on fast actions.
 
 <p align="center">
   <a href="https://github.com/ibpdas?tab=repositories">Repositories</a> ·
@@ -55,15 +55,15 @@ My approach is lightweight, iterative and focused on clarity.
 ## 🔭 What I am building right now
 
 ### Data Strategy Accelerator  
-A workshoping tool for building practical and context aware data strategies in the public sector.  
+A workshoping tool for building impactful data strategies in the public sector.  
 `Python · Streamlit · Plotly`
 
 ### Data Strategy Impact Dashboard  
-A three level causal model and visual dashboard that helps public sector leaders understand how foundational enablers, organisational maturity and outcomes connect to demonstrate data strategy impact.  
+A three level causal model based anaytics that helps public sector leaders understand how foundational enablers, organisational maturity and outcomes connect to demonstrate data strategy impact.  
 `Systems thinking · Visual diagnostics · Strategy evaluation`
 
 ### EnViro AI Agent  
-AI assisted curation that helps analysts explore indicators across environment, agriculture and inflation with clarity.  
+An AI agent that helps analysts explore environmental data.  
 `APIs · AI agents · Curation`
 
 ### MacroCycle AI Agent  
@@ -79,6 +79,7 @@ A browser based educational game designed for my son and his friends to learn di
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
 
 <!-- Languages -->
+
 <img src="https://img.shields.io/badge/Python-3572A5?logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
@@ -86,11 +87,13 @@ A browser based educational game designed for my son and his friends to learn di
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
 
 <!-- Frameworks -->
+
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white" />
 
 <!-- Tools -->
+
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
 
@@ -102,7 +105,6 @@ A browser based educational game designed for my son and his friends to learn di
 ## 🤖 How I use AI
 
 I treat AI tools like multidisciplinary collaborators.  
-They are fast at scaffolding, summarisation and curation but require supervision, context and judgement.
 
 My principles are:
 - human led insight  
