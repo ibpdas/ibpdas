@@ -59,7 +59,7 @@
   <p>Projects I am actively developing and improving.</p>
 
   <h3>ValueLine: Data Strategy Impact Dashboard</h3>
-  <p> A model and dashboard that helps public sector data leaders show how data foundations, capabilities and maturity levels connect to strategic outcomes. It provides a clear line of sight from data to impact
+  <p> A model that helps public sector data leaders show how data activities deliver strategic outcomes. It provides a clear line of sight from data to impact.
   </p>
   <p><code>Systems thinking · HTML · CSS · JavaScript</code></p>
 
