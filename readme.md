@@ -58,9 +58,9 @@
 
   <p>Projects I am actively developing and improving.</p>
 
-  <h3>ValueLine Model: Data Strategy Impact Dashboard</h3>
+  <h3>ValueLine: Data Strategy Impact Dashboard</h3>
   <p>
-    A three level causal model that helps leaders understand how foundational enablers, organisational maturity and outcomes connect.
+    A three level causal model and dashboard that help leaders understand how foundational data enablers, organisational maturity and value outcomes connect.
   </p>
   <p><code>Systems thinking · HTML · CSS · JavaScript</code></p>
 
