@@ -59,8 +59,7 @@
   <p>Projects I am actively developing and improving.</p>
 
   <h3>ValueLine: Data Strategy Impact Dashboard</h3>
-  <p>
-    A three level causal model and dashboard that help leaders understand how foundational data enablers, organisational maturity and value outcomes connect.
+  <p> A model and dashboard that helps public sector data leaders show how data foundations, capabilities and maturity levels connect to strategic outcomes. It provides a clear line of sight from data to impact
   </p>
   <p><code>Systems thinking · HTML · CSS · JavaScript</code></p>
 
