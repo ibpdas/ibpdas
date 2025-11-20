@@ -70,7 +70,7 @@
 
   <!-- ValueLine -->
   <details>
-    <summary><strong>ValueLine: Data Strategy Impact Dashboard</strong></summary>
+    <summary><strong>ValueLine: Data to Impact Line of Sight</strong></summary>
     <p>
       A model that helps public sector data leaders show how data activity delivers strategic outcomes.
       It provides a clear line of sight from data to impact and builds on ideas I first shared in two talks
@@ -93,9 +93,9 @@
     <p><code>Python · Streamlit · Plotly</code></p>
   </details>
 
-  <!-- Public Data Provenance Blockchain -->
+  <!-- Public Data Blockchain -->
   <details>
-    <summary><strong>Public Data Provenance Blockchain</strong></summary>
+    <summary><strong>Public Data Blockchain</strong></summary>
     <p>
       A lightweight Web3 prototype that demonstrates how blockchain can provide tamper evident provenance for public datasets.
       This work builds on my learning from the Mastering Web3 course at the University of Nicosia.
