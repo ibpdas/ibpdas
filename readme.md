@@ -2,7 +2,7 @@
 
 I am a data and AI leader working at the intersection of strategy, policy and technology in the UK public sector. My work focuses on helping organisations use data and emerging technologies in safe, practical and high impact ways.
 
-All projects here are personal experiments created outside my current role. They are not official tools, frameworks or departmental products.
+All projects here are personal experiments created outside my current role. They are lightweight explorations built gradually over time as part of my personal learning. They are not official tools, frameworks or departmental products.
 
 ---
 
@@ -12,9 +12,9 @@ All projects here are personal experiments created outside my current role. They
 - designing context aware and realistic data strategies  
 - enabling responsible and transparent AI adoption  
 - building confidence in evidence, experimentation and learning  
-- shaping practical, user focused solutions to real public sector problems  
+- shaping practical, user-focused solutions to real public-sector problems  
 
-My approach combines strategic thinking with hands on exploration. I test ideas through lightweight prototypes that help reveal insights, assumptions and opportunities.
+My approach combines strategic thinking with hands on exploration. I prototype ideas to understand possibilities, reveal assumptions and inform better strategic decisions.
 
 ---
 
@@ -29,7 +29,7 @@ A completed dashboard prototype exploring how data foundations, maturity and out
 ---
 
 ### 🔷 **ThinkStudio: Data Strategy Accelerator**  
-An in-progress tool supporting early-stage strategy development through structured prompts and diagnostic thinking.  
+An in progress tool supporting early-stage strategy development through structured prompts and diagnostic thinking.  
 **Focus:** framing · organisational diagnosis · strategic reasoning  
 
 ---
@@ -54,31 +54,31 @@ A conceptual Web3 experiment from the University of Nicosia Web3 MOOC, examining
 
 ## 🛠️ Tools and technologies
 
-I stay hands on to understand what is possible, test assumptions quickly and translate concepts into working examples.
+I stay hands on to understand what is possible, test ideas quickly and translate concepts into working examples that support strategic thinking.
 
 **Languages:**  
-Python · SQL · JavaScript
+Python · SQL · JavaScript  
 
 **Prototyping and analytics:**  
-Streamlit · Plotly · Jupyter · Pandas
+Streamlit · Plotly · Jupyter · Pandas  
 
 **Web and application development:**  
-HTML · CSS · Next.js · Tailwind
+HTML · CSS · Next.js · Tailwind  
 
 **AI and agent tooling:**  
-OpenAI API · orchestration patterns · data curation pipelines
+OpenAI API · orchestration patterns · data curation pipelines  
 
 **Distributed and emerging tech:**  
-Solidity · Hardhat · wagmi · viem
+Solidity · Hardhat · wagmi · viem  
 
 **Versioning and collaboration:**  
-GitHub · Git
+GitHub · Git  
 
 ---
 
 ## 🤖 How I think about AI
 
-My AI work began during a nine month AI Policy Fellowship at Imperial College London. I now approach AI as a set of multidisciplinary tools that support reasoning, exploration and decision making, anchored in strong governance and clarity of assumptions.
+My AI journey began during a nine month AI Policy Fellowship at Imperial College London. I now approach AI as a set of multidisciplinary tools that support reasoning, exploration and decision making, anchored in strong governance and clarity of assumptions.
 
 **Guiding principles:**
 - human led oversight  
