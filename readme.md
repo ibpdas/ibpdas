@@ -64,7 +64,7 @@
   <p>Projects I am actively developing and improving.</p>
 
   <details>
-    <summary><strong>ValueLine: Data to Impact</strong></summary>
+    <summary><strong>ValueLine: Data Stratgey Impact Dashboard</strong></summary>
     <p>
       A model that helps public sector data leaders show how data activity delivers strategic outcomes.
       It provides a clear line of sight from data to impact and builds on ideas first shared in my talks
