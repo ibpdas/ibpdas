@@ -7,7 +7,7 @@
     <img src="assets/88e5c0a9-8506-4449-a6c8-966814039a1f.png" alt="Learn, Build, Share for Public Good" />
   </p>
 
-  <!-- Top section -->
+<!-- Top section -->
   <h1 align="center">Hi, I'm Bandhu 👋</h1>
 
   <p align="center">
@@ -68,46 +68,61 @@
 
   <p>Projects I am actively developing and improving.</p>
 
-  <h3>ValueLine: Data Strategy Impact Dashboard</h3>
-  <p>
-    A model that helps public sector data leaders show how data activity delivers strategic outcomes.
-    It provides a clear line of sight from data to impact and builds on ideas I first shared in two talks
-    for DAMA UK and Big Data LDN 2023. Those sessions generated strong interest from colleagues and this
-    project is my way of making the concepts open and accessible to others.
-  </p>
-  <p><code>Systems thinking · HTML · CSS · JavaScript</code></p>
+  <!-- ValueLine -->
+  <details>
+    <summary><strong>ValueLine: Data Strategy Impact Dashboard</strong></summary>
+    <p>
+      A model that helps public sector data leaders show how data activity delivers strategic outcomes.
+      It provides a clear line of sight from data to impact and builds on ideas I first shared in two talks
+      for DAMA UK and Big Data LDN 2023. Those sessions generated strong interest from colleagues and this
+      project is my way of making the concepts open and accessible to others.
+    </p>
+    <p><code>Systems thinking · HTML · CSS · JavaScript</code></p>
+  </details>
 
-  <h3>Data Strategy Explorer</h3>
-  <p>
-    I built the Data Strategy Explorer to give public sector teams a simple and accessible way to think about
-    data strategy without needing to rely on external consultants for basic framing or structure. Many teams
-    already understand their challenges but benefit from a shared starting point that helps organise thinking,
-    clarify priorities and support better conversations. This tool brings together the methods I use in workshops
-    and coaching sessions so others can explore and design their own approaches with confidence.
-  </p>
-  <p><code>Python · Streamlit · Plotly</code></p>
+  <!-- Data Strategy Explorer -->
+  <details>
+    <summary><strong>Data Strategy Explorer</strong></summary>
+    <p>
+      I built the Data Strategy Explorer to give public sector teams a simple and accessible way to think about
+      data strategy without needing to rely on external consultants for basic framing or structure. Many teams
+      already understand their challenges but benefit from a shared starting point that helps organise thinking,
+      clarify priorities and support better conversations. This tool brings together the methods I use in workshops
+      and coaching sessions so others can explore and design their own approaches with confidence.
+    </p>
+    <p><code>Python · Streamlit · Plotly</code></p>
+  </details>
 
-  <h3>Public Data Provenance Blockchain</h3>
-  <p>
-    A lightweight Web3 prototype that demonstrates how blockchain can provide tamper evident provenance for public datasets.
-    This work builds on my learning from the Mastering Web3 course at the University of Nicosia.
-  </p>
-  <p><code>Solidity · Hardhat · Next.js · wagmi · viem · SHA 256</code></p>
+  <!-- Public Data Provenance Blockchain -->
+  <details>
+    <summary><strong>Public Data Provenance Blockchain</strong></summary>
+    <p>
+      A lightweight Web3 prototype that demonstrates how blockchain can provide tamper evident provenance for public datasets.
+      This work builds on my learning from the Mastering Web3 course at the University of Nicosia.
+    </p>
+    <p><code>Solidity · Hardhat · Next.js · wagmi · viem · SHA 256</code></p>
+  </details>
 
-  <h3>MacroCycle AI Agent</h3>
-  <p>
-    An AI assisted multi agent experiment for detecting macroeconomic business cycles using USA datasets.
-    I built this as part of my AI Policy Fellowship at Imperial College London, combining my interests in
-    finance and data. United States economic datasets were used because they are richly documented,
-    openly accessible and supported by robust APIs which make them ideal for safe experimentation.
-  </p>
-  <p><code>Python · Plotly · Streamlit</code></p>
+  <!-- MacroCycle -->
+  <details>
+    <summary><strong>MacroCycle AI Agent</strong></summary>
+    <p>
+      An AI assisted multi agent experiment for detecting macroeconomic business cycles using USA datasets.
+      I built this as part of my AI Policy Fellowship at Imperial College London, combining my interests in
+      finance and data. United States economic datasets were used because they are richly documented,
+      openly accessible and supported by robust APIs which make them ideal for safe experimentation.
+    </p>
+    <p><code>Python · Plotly · Streamlit</code></p>
+  </details>
 
-  <h3>EnViro Data Agent</h3>
-  <p>
-    An AI agent that helps analysts explore environmental and agricultural data and curate trusted sources.
-  </p>
-  <p><code>APIs · AI agents · Curation</code></p>
+  <!-- EnViro -->
+  <details>
+    <summary><strong>EnViro Data Agent</strong></summary>
+    <p>
+      An AI agent that helps analysts explore environmental and agricultural data and curate trusted sources.
+    </p>
+    <p><code>APIs · AI agents · Curation</code></p>
+  </details>
 
   <hr />
 
@@ -185,3 +200,4 @@
 
 </body>
 </html>
+
