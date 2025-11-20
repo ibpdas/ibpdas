@@ -4,7 +4,7 @@
 
   <!-- Banner -->
   <p align="center">
-    <img src="assets/defra-banner.png" alt="Learn, Build, Share for Public Good" />
+    <img src="assets/88e5c0a9-8506-4449-a6c8-966814039a1f.png" alt="Learn, Build, Share for Public Good" />
   </p>
 
   <!-- Top section -->
