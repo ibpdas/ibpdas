@@ -15,13 +15,13 @@ I care about creating public value through:
 - clear communication of evidence  
 - open sharing of good practice where appropriate  
 
-My work blends strategic thinking with hands on building. My style is iterative, structured and focused on outcomes rather than complexity.
+My work blends strategic thinking with hands on building. My style is iterative,modular and focused on outcomes rather than complexity.
 
 ---
 
 ## 🔍 Featured work
 
-Personal projects at different stages of maturity that help me explore ideas in data, AI and public-sector problem solving.
+Personal projects at different stages of maturity that help me explore ideas in data, AI and public sector problem solving.
 
 ### 🟩 **ValueLine: Data Strategy Impact Dashboard**  
 A completed dashboard experiment showing how data foundations, maturity and outcomes can be linked in a simple, visual way.  
@@ -48,7 +48,7 @@ A prototype agent for exploring environmental and agricultural datasets and cura
 ---
 
 ### ⚪ **PublicDataChain: Provenance Ledger**  
-A conceptual Web3 prototype examining how public data provenance might be made tamper evident and verifiable as part of University of Nicosia's Web3 MOOC.  
+A conceptual Web3 prototype examining how open data provenance might be made tamper evident and verifiable as part of my University of Nicosia's Web3 MOOC.  
 **Tech:** Solidity · Hardhat · Next.js · wagmi · viem  
 
 ---
@@ -63,7 +63,7 @@ Solidity · Tailwind · GitHub
 
 ## 🤖 How I use AI
 
-My AI journey began during a nine-month AI Policy Fellowship at Imperial College London. I now use AI tools as multidisciplinary collaborators that support reasoning, exploration and delivery while maintaining strong governance.
+My AI journey began during a nine month AI Policy Fellowship at Imperial College London. I now use AI tools as multidisciplinary collaborators that support reasoning, exploration and delivery while maintaining strong governance.
 
 **My principles:**
 - human led oversight  
