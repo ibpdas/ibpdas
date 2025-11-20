@@ -11,7 +11,7 @@
   <h1 align="center">Hi, I'm Bandhu 👋</h1>
 
   <p align="center">
-    Accountant turned data and AI strategist. I build practical tools for public good that help people
+    Accountant turned data strategist and AI builder. I build practical tools for public good that help people
     understand systems, use data well and experiment safely with AI. Open knowledge by default.
   </p>
 
