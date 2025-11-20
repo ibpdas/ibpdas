@@ -58,66 +58,44 @@
 
   <hr />
 
-  <!-- Featured Work -->
-  <h2>🔍 Featured work</h2>
+  ## 🔍 Featured Work
 
-  <p>Projects at different stages of maturity, from concept to complete builds.</p>
+Projects at different stages of maturity.
 
-  <table>
-    <tr>
-      <td width="50%" valign="top">
+---
 
-        <strong>🟩 ValueLine: Data Strategy Impact Dashboard</strong><br>
-        <img src="https://img.shields.io/badge/Status-Complete-4CAF50" alt="Status: Complete" /><br><br>
-        A practical dashboard for federated organisations to create a clear line of sight from data foundations to maturity and outcomes.<br>
-        <sub><strong>Tech:</strong> HTML · CSS · JavaScript</sub>
+#### 🟩 **ValueLine: Data Strategy Impact Dashboard**
+![Status](https://img.shields.io/badge/Complete-4CAF50)
+> A dashboard that shows the line of sight from data foundations to maturity and outcomes.  
+**Tech:** HTML · CSS · JavaScript
 
-      </td>
-      <td width="50%" valign="top">
+---
 
-        <strong>🔷 ThinkStudio: Data Strategy Accelerator</strong><br>
-        <img src="https://img.shields.io/badge/Status-In_Progress-1D70B8" alt="Status: In Progress" /><br><br>
-        A learning and facilitation tool that helps public sector teams diagnose context and turn insights into actionable data strategy shifts.<br>
-        <sub><strong>Tech:</strong> Python · Streamlit · Plotly</sub>
+#### 🔷 **ThinkStudio: Data Strategy Accelerator**
+![Status](https://img.shields.io/badge/In_Progress-1D70B8)
+> A facilitation tool for diagnosing organisational context and accelerating data strategy design.  
+**Tech:** Python · Streamlit · Plotly
 
-      </td>
-    </tr>
+---
 
-    <tr>
-      <td width="50%" valign="top">
+#### ⚪ **PublicDataChain: Provenance Ledger**
+![Status](https://img.shields.io/badge/Concept-9E9E9E)
+> A Web3 prototype for tamper-evident public data provenance.  
+**Tech:** Solidity · Hardhat · Next.js · wagmi · viem
 
-        <strong>⚪ PublicDataChain: Provenance Ledger</strong><br>
-        <img src="https://img.shields.io/badge/Status-Concept-9E9E9E" alt="Status: Concept" /><br><br>
-        A Web3 prototype that demonstrates tamper evident provenance for public datasets using decentralised verification and open lineage.<br>
-        <sub><strong>Tech:</strong> Solidity · Hardhat · Next.js · wagmi · viem</sub>
+---
 
-      </td>
-      <td width="50%" valign="top">
+#### 🟩 **MacroCycle: AI Business Cycle Agent**
+![Status](https://img.shields.io/badge/Complete-4CAF50)
+> A multi-agent experiment mapping macroeconomic business cycles.  
+**Tech:** Python · Plotly · Streamlit
 
-        <strong>🟩 MacroCycle: AI Business Cycle Agent</strong><br>
-        <img src="https://img.shields.io/badge/Status-Complete-4CAF50" alt="Status: Complete" /><br><br>
-        A multi agent experiment for detecting macroeconomic business cycles using USA datasets, exploring orchestration and explainability.<br>
-        <sub><strong>Tech:</strong> Python · Plotly · Streamlit</sub>
+---
 
-      </td>
-    </tr>
-
-    <tr>
-      <td width="50%" valign="top">
-
-        <strong>🟧 EnViro: Environmental Insight Agent</strong><br>
-        <img src="https://img.shields.io/badge/Status-Prototype-F5A623" alt="Status: Prototype" /><br><br>
-        An AI agent that helps analysts explore environmental and agricultural data and curate trusted sources for federated organisations.<br>
-        <sub><strong>Tech:</strong> APIs · AI agents · Curation</sub>
-
-      </td>
-      <td width="50%" valign="top">
-        &nbsp;
-      </td>
-    </tr>
-  </table>
-
-  <hr />
+#### 🟧 **EnViro: Environmental Insight Agent**
+![Status](https://img.shields.io/badge/Prototype-F5A623)
+> An AI agent that curates environmental and agricultural data.  
+**Tech:** APIs · AI Agents · Curation
 
   <!-- Tech and tools -->
   <h2>🛠️ Tech and tools</h2>
