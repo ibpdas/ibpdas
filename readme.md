@@ -58,44 +58,49 @@
 
   <hr />
 
-  ## 🔍 Featured Work
+## 🔍 Featured Work
 
-Projects at different stages of maturity.
+Projects at different stages of maturity, from concept to complete builds.
 
 ---
 
-#### 🟩 **ValueLine: Data Strategy Impact Dashboard**
-![Status](https://img.shields.io/badge/Complete-4CAF50)
-> A dashboard that shows the line of sight from data foundations to maturity and outcomes.  
+### 🟩 ValueLine: Data Strategy Impact Dashboard  
+![Status](https://img.shields.io/badge/Status-Complete-4CAF50)
+
+A practical dashboard for federated organisations to create a clear line of sight from data foundations to maturity and outcomes.  
 **Tech:** HTML · CSS · JavaScript
 
 ---
 
-#### 🔷 **ThinkStudio: Data Strategy Accelerator**
-![Status](https://img.shields.io/badge/In_Progress-1D70B8)
-> A facilitation tool for diagnosing organisational context and accelerating data strategy design.  
+### 🔷 ThinkStudio: Data Strategy Accelerator  
+![Status](https://img.shields.io/badge/Status-In_Progress-1D70B8)
+
+A learning and facilitation tool to help public sector teams diagnose their context and turn insights into actionable data strategy shifts.  
 **Tech:** Python · Streamlit · Plotly
 
 ---
 
-#### ⚪ **PublicDataChain: Provenance Ledger**
-![Status](https://img.shields.io/badge/Concept-9E9E9E)
-> A Web3 prototype for tamper-evident public data provenance.  
+### ⚪ PublicDataChain: Provenance Ledger  
+![Status](https://img.shields.io/badge/Status-Concept-9E9E9E)
+
+A Web3 prototype that demonstrates tamper evident provenance for public datasets using decentralised verification and open lineage.  
 **Tech:** Solidity · Hardhat · Next.js · wagmi · viem
 
 ---
 
-#### 🟩 **MacroCycle: AI Business Cycle Agent**
-![Status](https://img.shields.io/badge/Complete-4CAF50)
-> A multi-agent experiment mapping macroeconomic business cycles.  
+### 🟩 MacroCycle: AI Business Cycle Agent  
+![Status](https://img.shields.io/badge/Status-Complete-4CAF50)
+
+A multi-agent experiment for detecting macroeconomic business cycles using USA datasets.  
 **Tech:** Python · Plotly · Streamlit
 
 ---
 
-#### 🟧 **EnViro: Environmental Insight Agent**
-![Status](https://img.shields.io/badge/Prototype-F5A623)
-> An AI agent that curates environmental and agricultural data.  
-**Tech:** APIs · AI Agents · Curation
+### 🟧 EnViro: Environmental Insight Agent  
+![Status](https://img.shields.io/badge/Status-Prototype-F5A623)
+
+An AI agent that helps analysts explore environmental and agricultural data and curate trusted sources.  
+**Tech:** APIs · AI Agents · Streamlit
 
   <!-- Tech and tools -->
   <h2>🛠️ Tech and tools</h2>
