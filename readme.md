@@ -70,7 +70,7 @@
 
   <!-- ValueLine -->
   <details>
-    <summary><strong>ValueLine: Data to Impact Line of Sight</strong></summary>
+    <summary><strong>ValueLine: Data to Impact</strong></summary>
     <p>
       A model that helps public sector data leaders show how data activity delivers strategic outcomes.
       It provides a clear line of sight from data to impact and builds on ideas I first shared in two talks
