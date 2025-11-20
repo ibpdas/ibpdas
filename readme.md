@@ -94,7 +94,7 @@
   </details>
 
   <details>
-    <summary><strong>MacroCycle AI Agent</strong></summary>
+    <summary><strong>MacroCycle: AI Business Cycle Agent</strong></summary>
     <p>
       A multi agent experiment for detecting macroeconomic business cycles using USA datasets.
       Built during my AI Policy Fellowship at Imperial College London. United States economic datasets were used
@@ -104,7 +104,7 @@
   </details>
 
   <details>
-    <summary><strong>EnViro Data Agent</strong></summary>
+    <summary><strong>EnViro: Data Curation Agent</strong></summary>
     <p>
       An AI agent that helps analysts explore environmental and agricultural data and curate trusted sources.
     </p>
