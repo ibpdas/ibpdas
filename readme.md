@@ -160,7 +160,7 @@
   </p>
 
   <p>
-    I have completed the Microsoft Azure AI Engineer Associate certification which supports my work on responsible,
+    I have completed Microsoft Azure AI Engineer certification and BlueDot Impact's AI Governance course which support my work on responsible,
     production ready AI tools and services.
   </p>
 
