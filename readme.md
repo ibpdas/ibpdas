@@ -58,60 +58,49 @@
 
   <hr />
 
-  <!-- Featured work -->
-  <h2>🔍 Featured work</h2>
+## 🔍 Featured Work
 
-  <p>Projects I am actively developing and improving.</p>
+Projects at different stages of maturity, from concept to complete builds.
 
-  <details>
-    <summary><strong>ValueLine: Data Stratgey Impact Dashboard</strong></summary>
-    <p>
-      A model that helps public sector data leaders show how data activity delivers strategic outcomes.
-      It provides a clear line of sight from data to impact and builds on ideas first shared in my talks
-      for DAMA UK and Big Data LDN 2023. This project makes the concepts open and accessible to others.
-    </p>
-    <p><code>Systems thinking · HTML · CSS · JavaScript</code></p>
-  </details>
+---
 
-  <details>
-    <summary><strong>Data Strategy Explorer</strong></summary>
-    <p>
-      A simple way for public sector teams to explore data strategy without relying on external consultants.
-      Many teams already understand their challenges but benefit from a shared starting point that helps
-      organise thinking, clarify priorities and support better conversations. This tool brings together the methods
-      I use in workshops and coaching sessions so others can design their own approaches with confidence.
-    </p>
-    <p><code>Python · Streamlit · Plotly</code></p>
-  </details>
+### 🟩 ValueLine: Data Strategy Impact Dashboard  
+![Status](https://img.shields.io/badge/Status-Complete-4CAF50)
 
-  <details>
-    <summary><strong>Public Data Blockchain</strong></summary>
-    <p>
-      A lightweight Web3 prototype that shows how blockchain can provide tamper evident provenance for public datasets.
-      Inspired by my learning from the Mastering Web3 course at the University of Nicosia.
-    </p>
-    <p><code>Solidity · Hardhat · Next.js · wagmi · viem · SHA 256</code></p>
-  </details>
+A practical dashboard for federated organisations to create a clear line of sight from data foundations to maturity and outcomes.  
+**Tech:** HTML · CSS · JavaScript
 
-  <details>
-    <summary><strong>MacroCycle: AI Business Cycle Agent</strong></summary>
-    <p>
-      A multi agent experiment for detecting macroeconomic business cycles using USA datasets.
-      Built during my AI Policy Fellowship at Imperial College London. United States economic datasets were used
-      because they are richly documented, openly available and supported by robust APIs which makes them ideal for safe experimentation.
-    </p>
-    <p><code>Python · Plotly · Streamlit</code></p>
-  </details>
+---
 
-  <details>
-    <summary><strong>EnViro: Data Curation Agent</strong></summary>
-    <p>
-      An AI agent that helps analysts explore environmental and agricultural data and curate trusted sources.
-    </p>
-    <p><code>APIs · AI agents · Curation</code></p>
-  </details>
+### 🔷 ThinkStudio: Data Strategy Accelerator  
+![Status](https://img.shields.io/badge/Status-In_Progress-1D70B8)
 
-  <hr />
+A learning and facilitation tool to help public sector teams diagnose their context and turn insights into actionable data strategy shifts.  
+**Tech:** Python · Streamlit · Plotly
+
+---
+
+### ⚪ PublicDataChain: Provenance Ledger  
+![Status](https://img.shields.io/badge/Status-Concept-9E9E9E)
+
+A Web3 prototype that demonstrates tamper evident provenance for public datasets using decentralised verification and open lineage.  
+**Tech:** Solidity · Hardhat · Next.js · wagmi · viem
+
+---
+
+### 🟩 MacroCycle: AI Business Cycle Agent  
+![Status](https://img.shields.io/badge/Status-Complete-4CAF50)
+
+A multi-agent experiment for detecting macroeconomic business cycles using USA datasets.  
+**Tech:** Python · Plotly · Streamlit
+
+---
+
+### 🟧 EnViro: Environmental Insight Agent  
+![Status](https://img.shields.io/badge/Status-Prototype-F5A623)
+
+An AI agent that helps analysts explore environmental and agricultural data and curate trusted sources.  
+**Tech:** APIs · AI Agents · Curation
 
   <!-- Tech and tools -->
   <h2>🛠️ Tech and tools</h2>
