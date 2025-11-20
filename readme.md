@@ -40,7 +40,7 @@
 
   <p>
     I work at the intersection of data, policy and technology in the UK public sector.
-    My background spans finance, analytics, forecasting, data science and data strategy.
+    My background spans finance, data science and data strategy.
   </p>
 
   <p>My focus areas include:</p>
@@ -52,13 +52,8 @@
   </ul>
 
   <p>
-    I explore emerging technologies through hands on builds. This includes completing the Mastering Web3 course
-    by the University of Nicosia which informs my work on blockchain provenance and public data infrastructure.
-  </p>
-
-  <p>
     I enjoy combining strategic thinking with hands on building.
-    My style is iterative, collaborative and action oriented.
+    My style is modular, iterative, collaborative and action oriented.
   </p>
 
   <hr />
