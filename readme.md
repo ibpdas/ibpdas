@@ -58,49 +58,66 @@
 
   <hr />
 
-## 🔍 Featured Work
+  <!-- Featured Work -->
+  <h2>🔍 Featured work</h2>
 
-Projects at different stages of maturity, from concept to complete builds.
+  <p>Projects at different stages of maturity, from concept to complete builds.</p>
 
----
+  <table>
+    <tr>
+      <td width="50%" valign="top">
 
-### 🟩 ValueLine: Data Strategy Impact Dashboard  
-![Status](https://img.shields.io/badge/Status-Complete-4CAF50)
+        <strong>🟩 ValueLine: Data Strategy Impact Dashboard</strong><br>
+        <img src="https://img.shields.io/badge/Status-Complete-4CAF50" alt="Status: Complete" /><br><br>
+        A practical dashboard for federated organisations to create a clear line of sight from data foundations to maturity and outcomes.<br>
+        <sub><strong>Tech:</strong> HTML · CSS · JavaScript</sub>
 
-A practical dashboard for federated organisations to create a clear line of sight from data foundations to maturity and outcomes.  
-**Tech:** HTML · CSS · JavaScript
+      </td>
+      <td width="50%" valign="top">
 
----
+        <strong>🔷 ThinkStudio: Data Strategy Accelerator</strong><br>
+        <img src="https://img.shields.io/badge/Status-In_Progress-1D70B8" alt="Status: In Progress" /><br><br>
+        A learning and facilitation tool that helps public sector teams diagnose context and turn insights into actionable data strategy shifts.<br>
+        <sub><strong>Tech:</strong> Python · Streamlit · Plotly</sub>
 
-### 🔷 ThinkStudio: Data Strategy Accelerator  
-![Status](https://img.shields.io/badge/Status-In_Progress-1D70B8)
+      </td>
+    </tr>
 
-A learning and facilitation tool to help public sector teams diagnose their context and turn insights into actionable data strategy shifts.  
-**Tech:** Python · Streamlit · Plotly
+    <tr>
+      <td width="50%" valign="top">
 
----
+        <strong>⚪ PublicDataChain: Provenance Ledger</strong><br>
+        <img src="https://img.shields.io/badge/Status-Concept-9E9E9E" alt="Status: Concept" /><br><br>
+        A Web3 prototype that demonstrates tamper evident provenance for public datasets using decentralised verification and open lineage.<br>
+        <sub><strong>Tech:</strong> Solidity · Hardhat · Next.js · wagmi · viem</sub>
 
-### ⚪ PublicDataChain: Provenance Ledger  
-![Status](https://img.shields.io/badge/Status-Concept-9E9E9E)
+      </td>
+      <td width="50%" valign="top">
 
-A Web3 prototype that demonstrates tamper evident provenance for public datasets using decentralised verification and open lineage.  
-**Tech:** Solidity · Hardhat · Next.js · wagmi · viem
+        <strong>🟩 MacroCycle: AI Business Cycle Agent</strong><br>
+        <img src="https://img.shields.io/badge/Status-Complete-4CAF50" alt="Status: Complete" /><br><br>
+        A multi agent experiment for detecting macroeconomic business cycles using USA datasets, exploring orchestration and explainability.<br>
+        <sub><strong>Tech:</strong> Python · Plotly · Streamlit</sub>
 
----
+      </td>
+    </tr>
 
-### 🟩 MacroCycle: AI Business Cycle Agent  
-![Status](https://img.shields.io/badge/Status-Complete-4CAF50)
+    <tr>
+      <td width="50%" valign="top">
 
-A multi-agent experiment for detecting macroeconomic business cycles using USA datasets.  
-**Tech:** Python · Plotly · Streamlit
+        <strong>🟧 EnViro: Environmental Insight Agent</strong><br>
+        <img src="https://img.shields.io/badge/Status-Prototype-F5A623" alt="Status: Prototype" /><br><br>
+        An AI agent that helps analysts explore environmental and agricultural data and curate trusted sources for federated organisations.<br>
+        <sub><strong>Tech:</strong> APIs · AI agents · Curation</sub>
 
----
+      </td>
+      <td width="50%" valign="top">
+        &nbsp;
+      </td>
+    </tr>
+  </table>
 
-### 🟧 EnViro: Environmental Insight Agent  
-![Status](https://img.shields.io/badge/Status-Prototype-F5A623)
-
-An AI agent that helps analysts explore environmental and agricultural data and curate trusted sources.  
-**Tech:** APIs · AI Agents · Curation
+  <hr />
 
   <!-- Tech and tools -->
   <h2>🛠️ Tech and tools</h2>
