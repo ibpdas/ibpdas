@@ -1,6 +1,6 @@
 # Hi, I'm Bandhu 👋
 
-I am a data and AI leader working at the intersection of strategy, policy and technology in the UK public sector. My work focuses on helping organisations use data and emerging technologies in safe, practical and high-impact ways.
+I am a data and AI leader working at the intersection of strategy, policy and technology in the UK public sector. My work focuses on helping organisations use data and emerging technologies in safe, practical and high impact ways.
 
 All projects here are personal experiments created outside my current role. They are not official tools, frameworks or departmental products.
 
@@ -12,18 +12,18 @@ All projects here are personal experiments created outside my current role. They
 - designing context aware and realistic data strategies  
 - enabling responsible and transparent AI adoption  
 - building confidence in evidence, experimentation and learning  
-- shaping practical, user-focused solutions to real public-sector problems  
+- shaping practical, user focused solutions to real public sector problems  
 
-My approach combines strategic thinking with hands on exploration. I test ideas through small, lightweight prototypes that help reveal insights, assumptions and opportunities.
+My approach combines strategic thinking with hands on exploration. I test ideas through lightweight prototypes that help reveal insights, assumptions and opportunities.
 
 ---
 
 ## 🔍 Selected work
 
-These projects represent areas I have been exploring in my own time across data strategy, AI and public-sector problem solving.
+These projects represent areas I have been exploring in my own time across data strategy, AI and public sector problem solving.
 
 ### 🟩 **ValueLine: Data Strategy Impact Dashboard**  
-A completed dashboard prototype exploring how foundations, maturity and outcomes can be connected in a simple, visual way.  
+A completed dashboard prototype exploring how data foundations, maturity and outcomes can be connected in a simple, visual way.  
 **Focus:** clarity of impact · strategic prioritisation  
 
 ---
@@ -41,14 +41,38 @@ A multiagent experiment built during my AI Policy Fellowship at Imperial College
 ---
 
 ### 🟧 **EnViro: Environmental Insight Agent**  
-A prototype agent for exploring environmental and agricultural datasets and surfacing trusted sources.  
+A prototype agent for exploring environmental and agricultural datasets and surfacing trusted sources from UK and beyond.  
 **Focus:** data discovery · curation · analyst support  
 
 ---
 
 ### ⚪ **PublicDataChain: Provenance Ledger**  
-A conceptual Web3 experiment built during the University of Nicosia Web3 MOOC, examining how open data provenance could be made tamper evident.  
+A conceptual Web3 experiment from the University of Nicosia Web3 MOOC, examining how open data provenance could be made tamper evident and verifiable.  
 **Focus:** trust · verification · future-state thinking  
+
+---
+
+## 🛠️ Tools and technologies
+
+I stay hands on to understand what is possible, test assumptions quickly and translate concepts into working examples.
+
+**Languages:**  
+Python · SQL · JavaScript
+
+**Prototyping and analytics:**  
+Streamlit · Plotly · Jupyter · Pandas
+
+**Web and application development:**  
+HTML · CSS · Next.js · Tailwind
+
+**AI and agent tooling:**  
+OpenAI API · orchestration patterns · data curation pipelines
+
+**Distributed and emerging tech:**  
+Solidity · Hardhat · wagmi · viem
+
+**Versioning and collaboration:**  
+GitHub · Git
 
 ---
 
@@ -69,7 +93,7 @@ My AI work began during a nine month AI Policy Fellowship at Imperial College Lo
 ## 🤝 How I work with others
 
 I enjoy collaborating with:
-- public-sector teams shaping practical data and AI roadmaps  
+- public sector teams shaping practical data and AI roadmaps  
 - analysts improving communication and impact of evidence  
 - builders exploring safe and responsible AI applications  
 
