@@ -22,8 +22,8 @@ My approach combines strategic thinking with hands on exploration. I prototype i
 
 These projects represent areas I have been exploring in my own time across data strategy, AI and public sector problem solving.
 
-###  **ValueLine: Data Strategy Impact Dashboard**  
-A completed dashboard prototype exploring how data foundations, maturity and outcomes can be connected in a simple, visual way.  
+###  **ValueLine: A Clearer Line of Sight from Data to Impact**  
+A model and dashboard prototype exploring how data foundations, maturity and outcomes can be connected in a simple, visual way.  
 **Focus:** clarity of impact · strategic prioritisation  
 
 ---
