@@ -22,31 +22,31 @@ My approach combines strategic thinking with hands on exploration. I prototype i
 
 These projects represent areas I have been exploring in my own time across data strategy, AI and public sector problem solving.
 
-### 🟩 **ValueLine: Data Strategy Impact Dashboard**  
+###  **ValueLine: Data Strategy Impact Dashboard**  
 A completed dashboard prototype exploring how data foundations, maturity and outcomes can be connected in a simple, visual way.  
 **Focus:** clarity of impact · strategic prioritisation  
 
 ---
 
-### 🔷 **ThinkStudio: Data Strategy Accelerator**  
+###  **ThinkStudio: Data Strategy Accelerator**  
 An in progress tool supporting early-stage strategy development through structured prompts and diagnostic thinking.  
 **Focus:** framing · organisational diagnosis · strategic reasoning  
 
 ---
 
-### 🟩 **MacroCycle: AI Business Cycle Agent**  
+###  **MacroCycle: AI Business Cycle Agent**  
 A multiagent experiment built during my AI Policy Fellowship at Imperial College London, exploring explainability, orchestration and economic sensemaking.  
 **Focus:** safe experimentation · complex systems · analytical reasoning  
 
 ---
 
-### 🟧 **EnViro: Environmental Insight Agent**  
+###  **EnViro: Environmental Insight Agent**  
 A prototype agent for exploring environmental and agricultural datasets and surfacing trusted sources from UK and beyond.  
 **Focus:** data discovery · curation · analyst support  
 
 ---
 
-### ⚪ **PublicDataChain: Provenance Ledger**  
+###  **PublicDataChain: Provenance Ledger**  
 A conceptual Web3 experiment from the University of Nicosia Web3 MOOC, examining how open data provenance could be made tamper evident and verifiable.  
 **Focus:** trust · verification · future-state thinking  
 
