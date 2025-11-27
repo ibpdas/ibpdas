@@ -1,105 +1,137 @@
-# Hi, I'm Bandhu 👋
+# Hi, I’m Bandhu 👋
 
-I am a data and AI leader working at the intersection of strategy, policy and technology in the UK public sector. My work focuses on helping organisations use data and emerging technologies in safe, practical and high impact ways.
+I work at the intersection of data, AI, strategy and public sector delivery. I help organisations turn complex data and emerging technologies into practical, safe and high impact outcomes.
 
-All projects here are personal experiments created outside my current role. They are lightweight explorations built gradually over time as part of my personal learning. They are not official tools, frameworks or departmental products.
+This GitHub is where I learn and experiment. Everything here is created in my own time to explore ideas, test assumptions and understand what is possible. None of the projects are official tools or departmental products.
 
 ---
 
-## 🌍 What I care about
+# 🌍 What I care about
 
 - improving how organisations understand and use data  
-- designing context aware and realistic data strategies  
+- designing realistic and context aware data strategies  
 - enabling responsible and transparent AI adoption  
 - building confidence in evidence, experimentation and learning  
-- shaping practical, user-focused solutions to real public-sector problems  
+- solving practical public sector problems with clarity and simplicity  
 
-My approach combines strategic thinking with hands on exploration. I prototype ideas to understand possibilities, reveal assumptions and inform better strategic decisions.
-
----
-
-## 🔍 Selected work
-
-These projects represent areas I have been exploring in my own time across data strategy, AI and public sector problem solving.
-
-###  **ValueLine: A Clearer Line of Sight from Data to Impact**  
-A model and dashboard prototype exploring how data foundations, maturity and outcomes can be connected in a simple, visual way.  
-**Focus:** clarity of impact · strategic prioritisation  
+I use small prototypes to explore possibilities and inform better decisions.
 
 ---
 
-###  **ThinkStudio: Data Strategy Accelerator**  
-An in progress tool supporting early-stage strategy development through structured prompts and diagnostic thinking.  
-**Focus:** framing · organisational diagnosis · strategic reasoning  
+# 🔍 Selected work
+
+A short selection of the projects that show my current interests.
+
+### **ValueLine: Data to Impact Model**  
+A model and dashboard that links data foundations, maturity and outcomes in a simple visual way.  
+**Why it matters:** strengthens clarity of impact and supports strategic prioritisation.  
+**Status:** active.  
+**Repo:** https://github.com/your-link-here  
 
 ---
 
-###  **MacroCycle: AI Business Cycle Agent**  
-A multiagent experiment built during my AI Policy Fellowship at Imperial College London, exploring explainability, orchestration and economic sensemaking.  
-**Focus:** safe experimentation · complex systems · analytical reasoning  
+### **ThinkStudio: Data Strategy Accelerator**  
+A tool that supports early stage strategy planning through structured prompts and diagnostic thinking.  
+**Why it matters:** improves framing, diagnosis and strategic reasoning in early planning stages.  
+**Status:** alpha.  
+**Repo:** https://github.com/your-link-here  
 
 ---
 
-###  **EnViro: Environmental Insight Agent**  
-A prototype agent for exploring environmental and agricultural datasets and surfacing trusted sources from UK and beyond.  
-**Focus:** data discovery · curation · analyst support  
+### **MacroCycle: AI Business Cycle Agent**  
+A multiagent experiment from my AI Policy Fellowship at Imperial College London. It explores explainability, orchestration and economic sensemaking.  
+**Why it matters:** tests how AI can support complex decision making in safe and transparent ways.  
+**Status:** ongoing.  
+**Repo:** https://github.com/your-link-here  
 
 ---
 
-###  **PublicDataChain: Provenance Ledger**  
-A conceptual Web3 experiment from the University of Nicosia Web3 MOOC, examining how open data provenance could be made tamper evident and verifiable.  
-**Focus:** trust · verification · future-state thinking  
+_For more of my experiments, see the repositories below._
 
 ---
 
-## 🛠️ Tools and technologies
+# 🎯 How I solve problems
 
-I stay hands on to understand what is possible, test ideas quickly and translate concepts into working examples that support strategic thinking.
-
-**Languages:**  
-Python · SQL · JavaScript  
-
-**Prototyping and analytics:**  
-Streamlit · Plotly · Jupyter · Pandas  
-
-**Web and application development:**  
-HTML · CSS · Next.js · Tailwind  
-
-**AI and agent tooling:**  
-OpenAI API · orchestration patterns · data curation pipelines  
-
-**Distributed and emerging tech:**  
-Solidity · Hardhat · wagmi · viem  
-
-**Versioning and collaboration:**  
-GitHub · Git  
+- clarify outcomes before choosing tools  
+- blend strategic thinking with hands-on experimentation  
+- prioritise user needs and organisational realities  
+- use simple prototypes to expose constraints and possibilities  
+- design for responsible and explainable use of AI  
+- choose clarity and simplicity over complexity  
 
 ---
 
-## 🤖 How I think about AI
+# 🛠️ Tools and technologies
 
-My AI journey began during a nine month AI Policy Fellowship at Imperial College London. I now approach AI as a set of multidisciplinary tools that support reasoning, exploration and decision making, anchored in strong governance and clarity of assumptions.
+### **Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-**Guiding principles:**
-- human led oversight  
-- provenance and transparency  
-- clarity of assumptions  
-- safe, bounded experimentation  
-- value over complexity  
-- public good  
+### **Analytics and prototyping**  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+### **Web development**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+
+### **AI and agent tooling**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-000000)
+![Pipelines](https://img.shields.io/badge/Data%20Pipelines-336699)
+
+### **Distributed and emerging tech**  
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?logo=ethereum&logoColor=black)
+![wagmi](https://img.shields.io/badge/wagmi-000000)
+![viem](https://img.shields.io/badge/viem-000000)
+
+### **Versioning**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
-## 🤝 How I work with others
+# 🤖 How I think about AI
 
-I enjoy collaborating with:
-- public sector teams shaping practical data and AI roadmaps  
+My AI foundations were shaped during a nine month AI Policy Fellowship at Imperial College London. I use AI to speed up research, test ideas and reason through complex systems. The value comes from clarity of assumptions, strong governance and thoughtful human oversight.
+
+**Principles:**  
+human led oversight  
+provenance and transparency  
+clarity of assumptions  
+safe and bounded experimentation  
+value over complexity  
+public good  
+
+---
+
+# 📈 What I am learning from these experiments
+
+- data strategy benefits from clearer models and less jargon  
+- prototypes reveal organisational constraints faster than documents  
+- responsible AI is a design problem as much as a governance problem  
+- public-sector problems need simplicity and clarity  
+- the best ideas start small and improve through iteration  
+
+---
+
+# 👥 How I work with others
+
+I enjoy working with:  
+- public-sector teams shaping practical data and AI roadmaps  
 - analysts improving communication and impact of evidence  
-- builders exploring safe and responsible AI applications  
+- builders exploring responsible AI patterns  
 
-If you would like to connect or discuss ideas, feel free to open an issue or contact me on  
+If you want to connect or discuss ideas, you can reach me on  
 [LinkedIn](https://www.linkedin.com/in/ibpdas/).
 
 ---
 
-_All views are personal. Projects here are side experiments created solely to learn, explore and contribute to public good._
+Explore the repositories if something caught your interest.  
+_All views are personal. All projects are experiments created outside my current role._
