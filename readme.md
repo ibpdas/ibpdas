@@ -29,7 +29,7 @@ _None of the projects are official tools or departmental products._
 A short selection of the projects that show my current interests.
 
 ### **ValueLine: Data to Impact Model**  
-A line of sight model that clarifies how better data foundations lead to better decisions, outcomes and public value.
+An line of sight model that clarifies how better data foundations lead to better decisions, outcomes and public value.
 **Status:** active.
 
 ### **ThinkStudio: Data Strategy Accelerator**  
