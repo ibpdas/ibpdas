@@ -10,9 +10,9 @@ _None of the projects are official tools or departmental products._
 
 # What I care about
 
-- improving how organisations understand and use data  
-- enabling responsible and transparent AI adoption  
-- building confidence in evidence, experimentation and learning  
+- Improving how organisations understand and use data  
+- Enabling responsible and transparent AI adoption  
+- Building confidence in evidence, experimentation and learning  
 
 ---
 
@@ -20,23 +20,20 @@ _None of the projects are official tools or departmental products._
 
 A short selection of the projects that show my current interests.
 
-### **ValueLine: Data to Impact Model**  
-A model and dashboard that links data foundations, maturity and outcomes in a simple visual way.  
-**Why it matters:** strengthens clarity of impact and supports strategic prioritisation.  
+## **ValueLine: Data to Impact Model**  
+A line of sight model for accelerating the path to value.
 **Status:** active.    
 
 ---
 
-### **ThinkStudio: Data Strategy Accelerator**  
-A tool that supports early stage strategy planning through structured prompts and diagnostic thinking.  
-**Why it matters:** improves framing, diagnosis and strategic reasoning in early planning stages.  
+## **ThinkStudio: Data Strategy Accelerator**  
+A workshopping tool for developing context aware data strategies.
 **Status:** alpha.    
 
 ---
 
 ### **MacroCycle: AI Business Cycle Agent**  
-A multiagent experiment from my AI Policy Fellowship at Imperial College London. It explores explainability, orchestration and economic sensemaking.  
-**Why it matters:** tests how AI can support complex decision making in safe and transparent ways.  
+A multiagent experiment for economic sensemaking with API driven stateless data ecosystem.
 **Status:** ongoing.  
 
 ---
