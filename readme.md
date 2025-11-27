@@ -9,10 +9,8 @@ This GitHub is where I learn and experiment. Everything here is created in my ow
 # What I care about
 
 - improving how organisations understand and use data  
-- designing realistic and context aware data strategies  
 - enabling responsible and transparent AI adoption  
 - building confidence in evidence, experimentation and learning  
-- solving practical public sector problems with clarity and simplicity  
 
 ---
 
@@ -99,6 +97,7 @@ I use AI to speed up research, test ideas and reason through complex systems.
 # How I work with others
 
 I enjoy working with:  
+
 - public sector teams shaping practical data and AI roadmaps  
 - analysts improving communication and impact of evidence  
 - builders exploring responsible AI patterns  
