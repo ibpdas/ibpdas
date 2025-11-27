@@ -6,15 +6,13 @@ This GitHub is where I learn and experiment. Everything here is created in my ow
 
 ---
 
-# 🌍 What I care about
+# What I care about
 
 - improving how organisations understand and use data  
 - designing realistic and context aware data strategies  
 - enabling responsible and transparent AI adoption  
 - building confidence in evidence, experimentation and learning  
 - solving practical public sector problems with clarity and simplicity  
-
-I use small prototypes to explore possibilities and inform better decisions.
 
 ---
 
@@ -44,16 +42,6 @@ A multiagent experiment from my AI Policy Fellowship at Imperial College London.
 ---
 
 _For more of my experiments, see the repositories below._
-
----
-
-# How I solve problems
-
-- clarify outcomes before choosing tools  
-- prioritise user needs and organisational realities  
-- use simple prototypes to expose constraints and possibilities  
-- design for responsible and explainable use of AI  
-- choose clarity and simplicity over complexity  
 
 ---
 
@@ -95,7 +83,9 @@ _For more of my experiments, see the repositories below._
 
 # How I think about AI
 
-My AI foundations were shaped during a nine month AI Policy Fellowship at Imperial College London. I use AI to speed up research, test ideas and reason through complex systems. The value comes from clarity of assumptions, strong governance and thoughtful human oversight.
+My AI foundations were shaped during a nine month AI Policy Fellowship at Imperial College London. 
+
+I use AI to speed up research, test ideas and reason through complex systems.  
 
 **Principles:**  
 - always human led  
