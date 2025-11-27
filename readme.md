@@ -32,21 +32,13 @@ A short selection of the projects that show my current interests.
 A line of sight model for accelerating the path to value. Helps connect data foundations, maturity and outcomes in a simple visual way.  
 **Status:** active.
 
----
-
 ### **ThinkStudio: Data Strategy Accelerator**  
 A workshopping tool for developing context aware data strategies. Supports early stage framing and organisational diagnosis.  
 **Status:** alpha.
 
----
-
 ### **MacroCycle: AI Business Cycle Agent**  
 A multiagent experiment for economic sensemaking with an API driven stateless data ecosystem. Tests explainable orchestration patterns.  
 **Status:** ongoing.
-
----
-
-_For more of my experiments, see the repositories below._
 
 ---
 
@@ -113,4 +105,5 @@ If you want to connect or discuss ideas, you can reach me on
 ---
 
 I share these experiments so others can learn, reuse or build on them.  
+
 _All views are personal. All projects are experiments created outside my current role._
