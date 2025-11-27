@@ -98,7 +98,7 @@ I use AI to speed up research, test ideas and reason through complex systems.
 I enjoy working with:  
 
 - Public sector teams shaping practical data and AI roadmaps  
-- Analysta improving impact of evidence  
+- Analysts improving impact of evidence  
 - Builders exploring responsible AI patterns  
 
 If you want to connect or discuss ideas, you can reach me on  
