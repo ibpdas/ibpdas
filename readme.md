@@ -20,13 +20,13 @@ _None of the projects are official tools or departmental products._
 
 A short selection of the projects that show my current interests.
 
-## **ValueLine: Data to Impact Model**  
+### **ValueLine: Data to Impact Model**  
 A line of sight model for accelerating the path to value.
 **Status:** active.    
 
 ---
 
-## **ThinkStudio: Data Strategy Accelerator**  
+### **ThinkStudio: Data Strategy Accelerator**  
 A workshopping tool for developing context aware data strategies.
 **Status:** alpha.    
 
@@ -85,11 +85,11 @@ My AI foundations were shaped during a nine month AI Policy Fellowship at Imperi
 I use AI to speed up research, test ideas and reason through complex systems.  
 
 **Principles:**  
-- always human led  
-- maximum transparency  
-- zero assumptions    
-- simple before complexity  
-- public good  
+- Always human led  
+- Maximum transparency  
+- Zero assumptions    
+- Simple over complexity  
+- Public good  
 
 ---
 
@@ -97,9 +97,9 @@ I use AI to speed up research, test ideas and reason through complex systems.
 
 I enjoy working with:  
 
-- public sector teams shaping practical data and AI roadmaps  
-- analysts improving communication and impact of evidence  
-- builders exploring responsible AI patterns  
+- Public sector teams shaping practical data and AI roadmaps  
+- Analysta improving impact of evidence  
+- Builders exploring responsible AI patterns  
 
 If you want to connect or discuss ideas, you can reach me on  
 [LinkedIn](https://www.linkedin.com/in/ibpdas/).
