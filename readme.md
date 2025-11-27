@@ -4,9 +4,9 @@ I work at the intersection of data, AI, strategy and public sector delivery. I h
 
 I use lightweight prototypes and structured thinking to simplify complexity and support better decisions.
 
-This GitHub is where I learn and experiment. Everything here is created in my own time to explore ideas, share learning and understand what is possible.  
+This GitHub is where I learn and experiment. Everything here is created in my own time to explore ideas, share learnings and understand what is possible.  
 
-_None of the projects are official tools or departmental products.
+_None of the projects are official tools or departmental products._
 
 ---
 
