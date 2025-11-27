@@ -25,16 +25,14 @@ A short selection of the projects that show my current interests.
 ### **ValueLine: Data to Impact Model**  
 A model and dashboard that links data foundations, maturity and outcomes in a simple visual way.  
 **Why it matters:** strengthens clarity of impact and supports strategic prioritisation.  
-**Status:** active.  
-**Repo:** https://github.com/your-link-here  
+**Status:** active.    
 
 ---
 
 ### **ThinkStudio: Data Strategy Accelerator**  
 A tool that supports early stage strategy planning through structured prompts and diagnostic thinking.  
 **Why it matters:** improves framing, diagnosis and strategic reasoning in early planning stages.  
-**Status:** alpha.  
-**Repo:** https://github.com/your-link-here  
+**Status:** alpha.    
 
 ---
 
@@ -42,7 +40,6 @@ A tool that supports early stage strategy planning through structured prompts an
 A multiagent experiment from my AI Policy Fellowship at Imperial College London. It explores explainability, orchestration and economic sensemaking.  
 **Why it matters:** tests how AI can support complex decision making in safe and transparent ways.  
 **Status:** ongoing.  
-**Repo:** https://github.com/your-link-here  
 
 ---
 
@@ -50,10 +47,9 @@ _For more of my experiments, see the repositories below._
 
 ---
 
-# 🎯 How I solve problems
+# How I solve problems
 
 - clarify outcomes before choosing tools  
-- blend strategic thinking with hands-on experimentation  
 - prioritise user needs and organisational realities  
 - use simple prototypes to expose constraints and possibilities  
 - design for responsible and explainable use of AI  
@@ -61,7 +57,7 @@ _For more of my experiments, see the repositories below._
 
 ---
 
-# 🛠️ Tools and technologies
+# Tools and technologies
 
 ### **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -97,34 +93,23 @@ _For more of my experiments, see the repositories below._
 
 ---
 
-# 🤖 How I think about AI
+# How I think about AI
 
 My AI foundations were shaped during a nine month AI Policy Fellowship at Imperial College London. I use AI to speed up research, test ideas and reason through complex systems. The value comes from clarity of assumptions, strong governance and thoughtful human oversight.
 
 **Principles:**  
-human led oversight  
-provenance and transparency  
-clarity of assumptions  
-safe and bounded experimentation  
-value over complexity  
-public good  
+- always human led  
+- maximum transparency  
+- zero assumptions    
+- simple before complexity  
+- public good  
 
 ---
 
-# 📈 What I am learning from these experiments
-
-- data strategy benefits from clearer models and less jargon  
-- prototypes reveal organisational constraints faster than documents  
-- responsible AI is a design problem as much as a governance problem  
-- public-sector problems need simplicity and clarity  
-- the best ideas start small and improve through iteration  
-
----
-
-# 👥 How I work with others
+# How I work with others
 
 I enjoy working with:  
-- public-sector teams shaping practical data and AI roadmaps  
+- public sector teams shaping practical data and AI roadmaps  
 - analysts improving communication and impact of evidence  
 - builders exploring responsible AI patterns  
 
