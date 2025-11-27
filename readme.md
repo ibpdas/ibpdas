@@ -2,7 +2,9 @@
 
 I work at the intersection of data, AI, strategy and public sector delivery. I help organisations turn complex data and emerging technologies into practical, safe and high impact outcomes.
 
-This GitHub is where I learn and experiment. Everything here is created in my own time to explore ideas, test assumptions and understand what is possible. None of the projects are official tools or departmental products.
+This GitHub is where I learn and experiment. Everything here is created in my own time to explore ideas, test assumptions and understand what is possible. 
+
+_None of the projects are official tools or departmental products._
 
 ---
 
