@@ -1,8 +1,9 @@
 # Hi, I’m Bandhu 👋
 
-I work at the intersection of data, AI, strategy and public sector delivery. I help organisations turn complex data and emerging technologies into practical, safe and high impact outcomes.
+I work at the intersection of data, AI, strategy and public sector delivery. I help organisations turn complex data and emerging technologies into practical, safe and high impact outcomes.  
+I use lightweight prototypes and structured thinking to simplify complexity and support better decisions.
 
-This GitHub is where I learn and experiment. Everything here is created in my own time to explore ideas, test assumptions and understand what is possible. 
+This GitHub is where I learn and experiment. Everything here is created in my own time to explore ideas, test assumptions and understand what is possible.  
 
 _None of the projects are official tools or departmental products._
 
@@ -11,6 +12,7 @@ _None of the projects are official tools or departmental products._
 # What I care about
 
 - Improving how organisations understand and use data  
+- Designing realistic and context aware data strategies  
 - Enabling responsible and transparent AI adoption  
 - Building confidence in evidence, experimentation and learning  
 
@@ -21,20 +23,20 @@ _None of the projects are official tools or departmental products._
 A short selection of the projects that show my current interests.
 
 ### **ValueLine: Data to Impact Model**  
-A line of sight model for accelerating the path to value.
-**Status:** active.    
+A line of sight model for accelerating the path to value. Helps connect data foundations, maturity and outcomes in a simple visual way.  
+**Status:** active.
 
 ---
 
 ### **ThinkStudio: Data Strategy Accelerator**  
-A workshopping tool for developing context aware data strategies.
-**Status:** alpha.    
+A workshopping tool for developing context aware data strategies. Supports early stage framing and organisational diagnosis.  
+**Status:** alpha.
 
 ---
 
 ### **MacroCycle: AI Business Cycle Agent**  
-A multiagent experiment for economic sensemaking with API driven stateless data ecosystem.
-**Status:** ongoing.  
+A multiagent experiment for economic sensemaking with an API driven stateless data ecosystem. Tests explainable orchestration patterns.  
+**Status:** ongoing.
 
 ---
 
@@ -80,23 +82,21 @@ _For more of my experiments, see the repositories below._
 
 # How I think about AI
 
-My AI foundations were shaped during a nine month AI Policy Fellowship at Imperial College London. 
-
-I use AI to speed up research, test ideas and reason through complex systems.  
+My AI foundations were shaped during a nine month AI Policy Fellowship at Imperial College London.  
+I use AI to speed up research, test ideas and reason through complex systems.
 
 **Principles:**  
 - Always human led  
 - Maximum transparency  
-- Zero assumptions    
-- Simple over complexity  
-- Public good  
+- Minimum assumptions  
+- Clear before clever   
+- 100% Public good  
 
 ---
 
 # How I work with others
 
 I enjoy working with:  
-
 - Public sector teams shaping practical data and AI roadmaps  
 - Analysts improving impact of evidence  
 - Builders exploring responsible AI patterns  
@@ -106,5 +106,5 @@ If you want to connect or discuss ideas, you can reach me on
 
 ---
 
-Explore the repositories if something caught your interest.  
+I share these experiments so others can learn, reuse or build on them.  
 _All views are personal. All projects are experiments created outside my current role._
