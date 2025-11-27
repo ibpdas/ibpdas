@@ -1,3 +1,9 @@
+![Data Provenance](https://img.shields.io/badge/Data%20Provenance-0A7E8C)
+![AI Confident Leader](https://img.shields.io/badge/AI%20Confident%20Leader-412991)
+![Public Good](https://img.shields.io/badge/Public%20Good-1A8F5A)
+![Systems Thinking](https://img.shields.io/badge/Systems%20Thinking-4C2C92)
+![Open Learning](https://img.shields.io/badge/Open%20Learning-005EA5)
+
 # Hi, I’m Bandhu 👋
 
 I work at the intersection of data, AI, strategy and public sector delivery. I help organisations turn complex data and emerging technologies into practical, safe and high impact outcomes.  
