@@ -19,7 +19,6 @@ _None of the projects are official tools or departmental products._
 # What I care about
 
 - Improving how organisations understand and use data  
-- Designing realistic and context aware data strategies  
 - Enabling responsible and transparent AI adoption  
 - Building confidence in evidence, experimentation and learning  
 
