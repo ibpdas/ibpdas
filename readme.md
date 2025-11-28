@@ -6,13 +6,13 @@
 
 # Hi, I’m Bandhu 👋
 
-I work at the intersection of **data, AI, strategy and public sector delivery**.  
+I work at the intersection of data, AI, strategy and public sector delivery.  
 
-I help organisations turn complex data and emerging technologies into **practical, safe and high impact outcomes**.
+I help organisations turn complex data and emerging technologies into practical, safe and high impact outcomes**.
 
-I use **lightweight prototypes** and **structured thinking** to simplify complexity and **shape better strategic outcomes**.
+I use lightweight prototypes and structured thinking to simplify complexity and shape better strategic outcomes**.
 
-This GitHub is where I **learn, experiment and share**.  
+This GitHub is where I learn, experiment and share. 
 Everything here is created in my own time to explore ideas, document approaches and spark useful conversations.
 
 **None of the projects are official tools or departmental products.**
