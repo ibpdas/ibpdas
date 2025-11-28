@@ -15,7 +15,7 @@ I use lightweight prototypes and structured thinking to simplify complexity and 
 This GitHub is where I learn, experiment and share. 
 Everything here is created in my own time to explore ideas, document approaches and spark useful conversations.
 
-When I'm not building or writing, I'm reliving my childhood with my 4 year old and rediscovering curiosity. 
+When I’m not building or writing, I’m reliving my childhood with my 4 year old and rediscovering curiosity.
 
 **None of the projects are official tools or departmental products.**
 
