@@ -38,6 +38,7 @@ A workshopping tool for developing context aware data strategies. Supports early
 A multiagent experiment for economic sensemaking with an API driven stateless data ecosystem. Tests explainable orchestration patterns.
 
 _See respositories to learn more_
+
 ---
 
 # Tech stack
