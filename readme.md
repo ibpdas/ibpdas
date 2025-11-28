@@ -29,20 +29,18 @@ _None of the projects are official tools or departmental products._
 A short selection of the projects that show my current interests.
 
 ### **ValueLine: Data to Impact Model**  
-A line of sight model that clarifies how better data foundations lead to better decisions, outcomes and public value.
-**Status:** active.
+A line of sight model that clarifies how better data foundations lead to better decisions, outcomes and public value. 
 
 ### **ThinkStudio: Data Strategy Accelerator**  
 A workshopping tool for developing context aware data strategies. Supports early stage framing and organisational diagnosis.  
-**Status:** alpha.
 
 ### **MacroCycle: AI Business Cycle Agent**  
-A multiagent experiment for economic sensemaking with an API driven stateless data ecosystem. Tests explainable orchestration patterns.  
-**Status:** ongoing.
+A multiagent experiment for economic sensemaking with an API driven stateless data ecosystem. Tests explainable orchestration patterns.
 
+_See respositories to learn more_
 ---
 
-# Tools and technologies
+# Tech stack
 
 ### **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -60,11 +58,6 @@ A multiagent experiment for economic sensemaking with an API driven stateless da
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-
-### **AI and agent tooling**  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-000000)
-![Pipelines](https://img.shields.io/badge/Data%20Pipelines-336699)
 
 ### **Distributed and emerging tech**  
 ![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
