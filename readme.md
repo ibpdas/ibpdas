@@ -32,7 +32,7 @@ When I'm not building or writing, I'm rediscovering curiosity with my 4 year old
 ## Selected work
 
 ### 🔵 **ValueLine**  
-A line of sight model that aligns data strategy, diagnostics and performance to accelerate public sector data value.  
+An unified model that aligns data strategy, diagnostics and performance to accelerate public sector data value.  
 → *Strategic logic model, diagnosis & performance system*
 
 ### 🟩 **ThinkStudio**  
