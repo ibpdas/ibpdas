@@ -78,7 +78,7 @@ _See respositories to learn more_
 # How I think about AI
 
 My AI foundations were shaped during a nine month AI Policy Fellowship at Imperial College London.  
-I use AI to speed up research, test ideas and reason through complex systems.
+I use AI to speed up research, test ideas and build prototypes.
 
 **Principles:**  
 - Always human led  
