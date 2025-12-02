@@ -38,7 +38,7 @@ A unified system that aligns strategy, diagnostics and performance to accelerate
 A workshopping tool for developing context aware data strategies. Supports early stage framing and organisational diagnosis.  
 
 ### **MacroCycle AI agent**  
-An agentic AI experiment for economic sensemaking with an API driven stateless data architecture.
+An AI agent and conversational chatbot that synthesises macroeconomic signals, identifies cycle turning points and explains what they mean for decisions.
 
 _See respositories to learn more_
 
