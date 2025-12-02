@@ -24,7 +24,7 @@ _All projects here are created in my own time and are not official departmental 
 I design tools and frameworks that help teams think clearly, deliver strategically and learn openly.
 
 ### **1. Data strategy & impact tools**  
-Frameworks that align priorities, data foundations, risk and performance.
+Frameworks that align priorities, data foundations, performance and impact.
 
 - **ValueLine** — from data diagnosis to measurable impact  
 - **ThinkStudio** — clarity and structured thinking for data leaders
@@ -36,11 +36,13 @@ Responsible exploration of AI agents and Web3 patterns for public data.
 - **PublicChain** (discovery) — verifiable public data provenance
 
 ### **3. Learning tools & reusable resources**  
-Lived lessons, distilled into practical tools that support day to day delivery
+Lived lessons, distilled into practical tools that colleagues can reuse.
 
 - Visual frameworks  
 - AI & data literacy aids  
 - Templates, checklists and guides  
+
+_I share these resources so others can learn, adapt and build on them. All views are my own._
 
 ---
 
@@ -77,7 +79,3 @@ I collaborate with:
 If you’d like to discuss ideas:
 
 👉 **LinkedIn:** https://www.linkedin.com/in/ibpdas/
-
----
-
-<p align="center"><em>I share these resources so others can learn, adapt and build on them. All views are my own.</em></p>
