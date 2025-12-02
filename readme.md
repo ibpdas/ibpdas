@@ -6,142 +6,78 @@
   <img src="https://img.shields.io/badge/Open%20Learning-0A7E8C" />
 </p>
 
+
 ## Hi, I'm Bandhu 👋
 
-I work at the intersection of data, AI, strategy and public sector delivery.  
+I work at the intersection of data, AI and public sector delivery.  
 
 My focus is helping organisations turn complex data and emerging technologies into practical, safe and high impact outcomes.
 
-This site is my micro lab for learning, experimenting and sharing.  
+This space is my micro lab - a place to explore ideas, prototype tools and share reusable resources for others on a similar journey.
 
-Everything here is created in my own time to explore ideas, document approaches and spark conversations.
-
-_None of the projects here are official tools or departmental products._
+_All projects here are created in my own time and are not official departmental products._
 
 ---
 
-## Portfolio overview
+## What I build & why
 
-I build three types of things:
+I design tools and frameworks that help teams think clearly, deliver strategically and learn openly.
 
-1. **Data stratgey and impact tools**  
-   Help leaders think clearly and turn diagnosis into measurable value from data.
+### **1. Data strategy & impact tools**  
+Frameworks that align priorities, data foundations, risk and performance.
 
-2. **Emerging tech and experimentation**  
-   Explore AI agents and Web3 patterns for public data and decision making.
+- **ValueLine** — from data diagnosis to measurable impact  
+- **ThinkStudio** — clarity and structured thinking for data leaders
 
-3. **Learning tools and reusable resources**  
-   Capture lessons from practice and turn them into simple,reuseable assets.
+### **2. Emerging tech & experimentation**  
+Responsible exploration of AI agents and Web3 patterns for public data.
 
----
+- **MacroCycle** — AI powered synthesis for context aware decisions  
+- **PublicChain** (discovery) — verifiable public data provenance
 
-## 1. Data strategy and impact tools
+### **3. Learning tools & reusable resources**  
+Lived lessons, distilled into practical tools that support day to day delivery
 
-> Tools that help leaders think clearly and organisations deliver measurable impact.
-
-### 🔵 ValueLine - from diagnosis to measurable impact
-
-A unified model that links data strategy, diagnostics and performance.
-
-- Connects business priorities, data foundations and delivery risks  
-- Translates maturity and constraints into clear priority shifts  
-- Supports performance conversations with a simple logic model
-
-**Focus:** Strategic logic model, maturity mapping, performance system
+- Visual frameworks  
+- AI & data literacy aids  
+- Templates, checklists and guides  
 
 ---
 
-### 🟩 ThinkStudio - tools for clarity and structured thinking
+## Principles
 
-A micro lab for public sector leaders who want to think more clearly about data, AI and delivery.
+The way I work is shaped by systems thinking, evidence, and responsible innovation.
 
-- Scan and compare peer strategies and public sector examples  
-- Frame problems with simple visuals and structured questions  
-- Translate insight into practical projects and capability building
-
-**Focus:** Ecosystem insights, diagnostic questions, design tools
-
----
-
-## 2. Emerging tech and experimentation
-
-> Prototyping ideas on the frontier: AI agents, sectoral analysis, Web3 and verifiable public data.
-
-### 🟣 MacroCycle - context aware decisions
-
-An AI powered assistant that synthesises macroeconomic signals, identifies potential cycle turning points and explains what they might mean for decisions.
-
-- Combines data from multiple macro indicators  
-- Uses AI agents to summarise and explain patterns  
-- Designed as a test bed for stateless, auditable AI workflows
-
-**Focus:** AI agents, multi signal synthesis, scenario insights
-
----
-
-### 🔶 PublicChain (discovery) - public data provenance
-
-A prototype exploring how Web3 tech can support more transparent and verifiable public data flows.
-
-- Simple experiments with on chain provenance for public data  
-- Focus on explainability and governance rather than speculation  
-- Discivery as part of a Web3 learning journey
-
-**Focus:** Web3, transparent governance, provable data flows
-
----
-
-## 3. Learning tools and reusable resources
-
-> Capturing lessons and turning them into reusable assets for peers working in data, AI and public sector delivery.
-
-This space brings together small but practical assets, for example:
-
-- Visual frameworks that simplify complex ideas  
-- Data and AI literacy aids for colleagues  
-- Templates, checklists and guides to support day to day data strategy delivery
+- Human led  
+- Clear before clever  
+- 100% Transparent by default  
+- Minimum assumptions  
+- Public good first  
 
 ---
 
 ## Tech stack
 
-I use a mix of analytics, web and emerging tech tools to prototype ideas quickly:
-
-- **Languages:** Python, SQL, JavaScript  
-- **Analytics and prototyping:** Streamlit, Plotly, Jupyter, Pandas  
-- **Web development:** HTML, CSS, Next.js, Tailwind  
-- **Distributed and emerging tech:** Solidity, Hardhat, wagmi, viem  
-- **Versioning:** GitHub, Git  
-
----
-
-## How I think about AI
-
-My AI foundations were shaped during a nine month Policy Fellowship at Imperial College London.  
-I use AI to accelerate research, test ideas and build meaningful prototypes.
-
-**Guiding principles:**
-
-- Human led  
-- Clear before clever  
-- Maximum transparency  
-- Minimum assumptions  
-- 100 percent public good  
+Python • SQL • JavaScript  
+Streamlit • Plotly • Jupyter  
+Next.js • Tailwind  
+Solidity • wagmi • viem • Hardhat  
+GitHub • Git
 
 ---
 
 ## Connect
 
-I enjoy working with:
+I collaborate with:
 
-- Public sector teams shaping practical data and AI strategies and business cases  
-- Analysts who want to increase the impact of evidence  
-- Builders exploring responsible AI and public data patterns  
+- Public sector leaders shaping data & AI strategy  
+- Analysts increasing the impact of evidence  
+- Builders exploring responsible AI patterns  
 
-If you want to connect or discuss ideas:
+If you’d like to discuss ideas:
 
-- 👉 LinkedIn: [linkedin.com/in/ibpdas](https://www.linkedin.com/in/ibpdas/)
+👉 **LinkedIn:** https://www.linkedin.com/in/ibpdas/
 
 ---
 
-_I share these experiments so others can learn, reuse or build on them. All views are my own. All projects are created outside my current role._
+<p align="center"><em>I share these resources so others can learn, adapt and build on them. All views are my own.</em></p>
