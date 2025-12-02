@@ -54,8 +54,8 @@ The way I work is shaped by systems thinking, evidence, and responsible innovati
 - Always human led  
 - Clear before clever  
 - 100% transparency
-- Minimum assumptions  
-- Public good first  
+- Verifiable assumptions  
+- Public good first 
 
 ---
 
