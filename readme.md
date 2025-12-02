@@ -32,11 +32,11 @@ When I'm not building or writing, I'm rediscovering curiosity with my 4 year old
 ## Selected work
 
 ### 🔵 **ValueLine**  
-A unified system that aligns strategy, diagnostics and performance to accelerate public-sector data value.  
+A unified system that aligns data strategy, diagnostics and performance to accelerate public sector data value.  
 → *Strategic logic model, diagnosis & performance system*
 
 ### 🟩 **ThinkStudio**  
-A micro-lab for public-sector data leaders to learn from real strategies and design more actionable data roadmaps.  
+A micro lab for public sector data leaders to learn from real strategies and design more actionable data roadmaps.  
 → *Ecosystem insights & practical design tools*
 
 ### 🟣 **MacroCycle**  
