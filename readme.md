@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Open%20Learning-0A7E8C" />
 </p>
 
+---
 
 ## Hi, I'm Bandhu 👋
 
