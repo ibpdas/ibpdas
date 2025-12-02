@@ -31,14 +31,14 @@ When I’m not building or writing, I’m reliving my childhood with my 4 year o
 
 A short selection of the projects that show my current interests.
 
-### **ValueLine: Data to Impact Model**  
-A line of sight model that clarifies how better data foundations lead to better decisions, outcomes and public value. 
+### **ValueLine**  
+A unified system that aligns strategy, diagnostics and performance to accelerate public sector data value. 
 
-### **ThinkStudio: Data Strategy Accelerator**  
+### **ThinkStudio**  
 A workshopping tool for developing context aware data strategies. Supports early stage framing and organisational diagnosis.  
 
-### **MacroCycle: AI Business Cycle Agent**  
-A multiagent experiment for economic sensemaking with an API driven stateless data ecosystem. Tests explainable orchestration patterns.
+### **MacroCycle AI agent**  
+An agentic AI experiment for economic sensemaking with an API driven stateless data architecture.
 
 _See respositories to learn more_
 
