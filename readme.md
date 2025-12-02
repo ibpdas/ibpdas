@@ -33,15 +33,15 @@ When I'm not building or writing, I'm rediscovering curiosity with my 4 year old
 
 ### 🔵 **ValueLine**  
 A unified system that aligns strategy, diagnostics and performance to accelerate public-sector data value.  
-→ *Strategic logic model & performance system*
+→ *Strategic logic model, diagnosis & performance system*
 
 ### 🟩 **ThinkStudio**  
 A micro-lab for public-sector data leaders to learn from real strategies and design more actionable data roadmaps.  
 → *Ecosystem insights & practical design tools*
 
 ### 🟣 **MacroCycle**  
-An AI agent and conversational chatbot that synthesises macro-economic signals, identifies cycle turning points and explains what they mean for decisions.  
-→ *AI agents, economic logic & scenario insights*
+An AI agent and conversational chatbot that synthesises macro economic signals, identifies cycle turning points and explains what they mean for decisions.  
+→ *AI agents, stateless architecture & scenario insights*
 
 ---
 
@@ -70,7 +70,7 @@ My AI foundations were shaped during a nine-month Policy Fellowship at Imperial 
 I use AI to accelerate research, test ideas and build meaningful prototypes.
 
 **Principles:**  
-- Humancled  
+- Human led  
 - Clear before clever  
 - Maximum transparency  
 - Minimum assumptions  
@@ -81,7 +81,7 @@ I use AI to accelerate research, test ideas and build meaningful prototypes.
 ## How I work with others
 
 I enjoy working with:  
-- Public-sector teams shaping practical data & AI roadmaps  
+- Public sector teams shaping practical data & AI business cases, strategies and roadmaps  
 - Analysts improving the impact of evidence  
 - Builders exploring responsible AI patterns  
 
