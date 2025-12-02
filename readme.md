@@ -83,7 +83,7 @@ If you’d like to discuss ideas or collaborate:
 
 👉 **LinkedIn:** https://www.linkedin.com/in/ibpdas/
 
-This space started as a way to document my learning during the 2025 Imperial AI Policy Fellowship and reflects the spirit of GDS’s Get Tech Certified initiative, a commitment to continuous learning and development.
+_This space started as a way to document my learning during the 2025 Imperial AI Policy Fellowship and reflects the spirit of GDS’s Get Tech Certified initiative, a commitment to continuous learning and development._
 
 ---
 
