@@ -15,6 +15,7 @@ I work at the intersection of data, AI and public sector delivery.
 My focus is helping organisations turn complex data and emerging technologies into practical, safe and high impact outcomes.
 
 This site is my micro lab for learning, experimenting and sharing.
+
 Everything here is created in my own time to explore ideas, document approaches and spark conversations.
 
 > None of the projects here are official tools or departmental products.
