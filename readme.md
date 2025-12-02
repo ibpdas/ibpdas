@@ -35,7 +35,7 @@ A short selection of the projects that show my current interests.
 A unified system that aligns strategy, diagnostics and performance to accelerate public sector data value. 
 
 ### **ThinkStudio**  
-A micro lab for public sector data leaders to learn from real strategies and build more actionable data roadmaps.  
+A micro lab for public sector data leaders to learn from real strategies and design more actionable data roadmaps and programmes.  
 
 ### **MacroCycle**  
 An AI agent and conversational chatbot that synthesises macroeconomic signals, identifies cycle turning points and explains what they mean for decisions.
