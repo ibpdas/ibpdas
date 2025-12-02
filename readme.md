@@ -11,7 +11,7 @@
 I work at the intersection of **data, AI, strategy and public sector delivery**.  
 I help organisations turn complex data and emerging technologies into practical, safe and high impact outcomes.
 
-This GitHub is my **micro-lab** for learning, experimenting and sharing.  
+This GitHub is my **micro lab** for learning, experimenting and sharing.  
 Everything here is created in my own time to explore ideas, document approaches and spark useful conversations.
 
 When I'm not building or writing, I'm rediscovering curiosity with my 4 year old.
