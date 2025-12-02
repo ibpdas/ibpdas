@@ -50,9 +50,9 @@ _I share these resources so others can learn, adapt and build on them. All views
 
 The way I work is shaped by systems thinking, evidence, and responsible innovation.
 
-- Human led  
+- Always human led  
 - Clear before clever  
-- 100% Transparent by default  
+- 100% transparent
 - Minimum assumptions  
 - Public good first  
 
