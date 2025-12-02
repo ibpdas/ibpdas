@@ -37,7 +37,7 @@ A unified system that aligns strategy, diagnostics and performance to accelerate
 ### **ThinkStudio**  
 A micro lab for public sector data leaders to learn from real strategies and build more actionable data roadmaps.  
 
-### **MacroCycle AI agent**  
+### **MacroCycle**  
 An AI agent and conversational chatbot that synthesises macroeconomic signals, identifies cycle turning points and explains what they mean for decisions.
 
 _See respositories to learn more_
