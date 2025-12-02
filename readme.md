@@ -1,106 +1,94 @@
-![Data Provenance](https://img.shields.io/badge/Data%20Provenance-0A7E8C)
-![AI Confident Leader](https://img.shields.io/badge/AI%20Confident%20Leader-412991)
-![Public Good](https://img.shields.io/badge/Public%20Good-1A8F5A)
-![Systems Thinking](https://img.shields.io/badge/Systems%20Thinking-4C2C92)
-![Open Learning](https://img.shields.io/badge/Open%20Learning-005EA5)
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Strategy-005EA5" />
+  <img src="https://img.shields.io/badge/AI%20&%20Agents-412991" />
+  <img src="https://img.shields.io/badge/Public%20Good-1A8F5A" />
+  <img src="https://img.shields.io/badge/Systems%20Thinking-4C2C92" />
+  <img src="https://img.shields.io/badge/Open%20Learning-0A7E8C" />
+</p>
 
-# Hi, I’m Bandhu 👋
+# Hi, I'm Bandhu 👋
 
-I work at the intersection of data, AI, strategy and public sector delivery.  
-
+I work at the intersection of **data, AI, strategy and public sector delivery**.  
 I help organisations turn complex data and emerging technologies into practical, safe and high impact outcomes.
 
-This GitHub is where I learn, experiment and share. 
+This GitHub is my **micro-lab** for learning, experimenting and sharing.  
 Everything here is created in my own time to explore ideas, document approaches and spark useful conversations.
 
-When I’m not building or writing, I’m reliving my childhood with my 4 year old and rediscovering curiosity.
+When I'm not building or writing, I'm rediscovering curiosity with my 4 year old.
 
-**None of the projects are official tools or departmental products.**
+**None of the projects here are official tools or departmental products.**
 
 ---
 
-# What I care about
+## What I care about
 
 - Improving how organisations understand and use data  
 - Enabling responsible and transparent AI adoption  
 - Building confidence in evidence, experimentation and learning  
+- Designing simple tools that help people **think clearly** and **act decisively**
 
 ---
 
-# 🔍 Selected work
+## Selected work
 
-A short selection of the projects that show my current interests.
+### 🔵 **ValueLine**  
+A unified system that aligns strategy, diagnostics and performance to accelerate public-sector data value.  
+→ *Strategic logic model & performance system*
 
-### **ValueLine**  
-A unified system that aligns strategy, diagnostics and performance to accelerate public sector data value. 
+### 🟩 **ThinkStudio**  
+A micro-lab for public-sector data leaders to learn from real strategies and design more actionable data roadmaps.  
+→ *Ecosystem insights & practical design tools*
 
-### **ThinkStudio**  
-A micro lab for public sector data leaders to learn from real strategies and design more actionable data roadmaps and programmes.  
-
-### **MacroCycle**  
-An AI agent and conversational chatbot that synthesises macroeconomic signals, identifies cycle turning points and explains what they mean for decisions.
-
-_See respositories to learn more_
-
----
-
-# Tech stack
-
-### **Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-### **Analytics and prototyping**  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-
-### **Web development**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
-
-### **Distributed and emerging tech**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?logo=ethereum&logoColor=black)
-![wagmi](https://img.shields.io/badge/wagmi-000000)
-![viem](https://img.shields.io/badge/viem-000000)
-
-### **Versioning**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+### 🟣 **MacroCycle**  
+An AI agent and conversational chatbot that synthesises macro-economic signals, identifies cycle turning points and explains what they mean for decisions.  
+→ *AI agents, economic logic & scenario insights*
 
 ---
 
-# How I think about AI
+## Tech stack
 
-My AI foundations were shaped during a nine month AI Policy Fellowship at Imperial College London.  
-I use AI to speed up research, test ideas and build prototypes.
+### Languages  
+Python • SQL • JavaScript
+
+### Analytics & prototyping  
+Streamlit • Plotly • Jupyter • Pandas
+
+### Web development  
+HTML • CSS • Next.js • Tailwind
+
+### Distributed / emerging tech  
+Solidity • Hardhat • wagmi • viem
+
+### Versioning  
+GitHub • Git
+
+---
+
+## How I think about AI
+
+My AI foundations were shaped during a nine-month Policy Fellowship at Imperial College London.  
+I use AI to accelerate research, test ideas and build meaningful prototypes.
 
 **Principles:**  
-- Always human led  
+- Humancled  
+- Clear before clever  
 - Maximum transparency  
 - Minimum assumptions  
-- Clear before clever   
-- 100% Public good  
+- 100% public good  
 
 ---
 
-# How I work with others
+## How I work with others
 
 I enjoy working with:  
-- Public sector teams shaping practical data and AI roadmaps  
-- Analysts improving impact of evidence  
+- Public-sector teams shaping practical data & AI roadmaps  
+- Analysts improving the impact of evidence  
 - Builders exploring responsible AI patterns  
 
-If you want to connect or discuss ideas, you can reach me on  
-[LinkedIn](https://www.linkedin.com/in/ibpdas/).
+If you want to connect or discuss ideas:  
+👉 [LinkedIn](https://www.linkedin.com/in/ibpdas/)
 
 ---
 
 I share these experiments so others can learn, reuse or build on them.  
-
 _All views are personal. All projects are experiments created outside my current role._
