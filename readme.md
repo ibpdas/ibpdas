@@ -6,22 +6,17 @@
   <img src="https://img.shields.io/badge/Open%20Learning-0A7E8C" />
 </p>
 
-<h1 align="center">Bandhu Das</h1>
-<p align="center">
-  Data, AI and strategy for public sector delivery
-</p>
-
----
-
-## About this space
+## Hi, I'm Bandhu 👋
 
 I work at the intersection of data, AI, strategy and public sector delivery.  
+
 My focus is helping organisations turn complex data and emerging technologies into practical, safe and high impact outcomes.
 
 This site is my micro lab for learning, experimenting and sharing.  
-Everything here is created in my own time to explore ideas, document approaches and create reusable resources for others on a similar journey.
 
-> None of the projects here are official tools or departmental products.
+Everything here is created in my own time to explore ideas, document approaches and spark conversations.
+
+_None of the projects here are official tools or departmental products._
 
 ---
 
