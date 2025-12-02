@@ -79,3 +79,9 @@ I collaborate with:
 If you’d like to discuss ideas:
 
 👉 **LinkedIn:** https://www.linkedin.com/in/ibpdas/
+
+---
+
+<p align="center">
+  <sub>© 2025 Bandhu Das — Built independently. Shared openly for public good and open learning.</sub>
+</p>
