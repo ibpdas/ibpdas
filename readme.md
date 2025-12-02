@@ -14,9 +14,10 @@ I work at the intersection of data, AI and public sector delivery.
 
 My focus is helping organisations turn complex data and emerging technologies into practical, safe and high impact outcomes.
 
-This space is my micro lab - a place to explore ideas, prototype tools and share reusable resources for others on a similar journey.
+This site is my micro lab for learning, experimenting and sharing.
+Everything here is created in my own time to explore ideas, document approaches and spark conversations.
 
-_All projects here are created in my own time and are not official departmental products._
+> None of the projects here are official tools or departmental products.
 
 ---
 
@@ -43,7 +44,7 @@ Lived lessons, distilled into practical tools that colleagues can reuse.
 - AI & data literacy aids  
 - Templates, checklists and guides  
 
-_I share these resources so others can learn, adapt and build on them. All views are my own._
+> I share these resources so others can learn, adapt and build on them. All views are my own.
 
 ---
 
