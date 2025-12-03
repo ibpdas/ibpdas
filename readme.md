@@ -24,34 +24,33 @@ Everything here is created in my own time to explore ideas, document approaches 
 
 ## What I build & why
 
-I design tools and frameworks that help teams think clearly, deliver strategically and learn openly.
-
-### **1. Data strategy & impact tools**  
-Frameworks that align priorities, data foundations, performance and impact.
-
-- **ValueLine** — from data diagnosis to measurable impact  
-- **ThinkStudio** — clarity and structured thinking for data leaders
-
-### **2. Emerging tech & experimentation**  
-Responsible exploration of AI agents and Web3 patterns for public data.
-
-- **MacroCycle** — AI powered synthesis for context aware decisions  
-- **PublicChain** (discovery) — verifiable public data provenance
-
-### **3. Learning tools & reusable resources**  
-Lived lessons, distilled into practical tools that colleagues can reuse.
-
-- Visual frameworks  
-- AI & data literacy aids  
-- Templates, checklists and guides  
+I design tools, frameworks and insights that help me think clearly, deliver strategically and learn openly.
 
 > I share these resources so others can learn, adapt and build on them. All views are my own.
+
+### **1. Data strategy & impact tools**  
+Align public service priorities, data foundations, performance and impact.
+
+- **ValueLine** — Clearer line of sight from data foundation to measurable impact  
+- **ThinkStudio** — Focussed, inclusive and practical data strategies, business cases and roadmaps. 
+
+### **2. Emerging tech & experimentation**  
+Responsible exploration of AI agents and Web3 capabilities.
+
+- **MacroCycle** — AI powered data management, analysis and synthesis for context aware decisions  
+- **PublicChain** (discovery) — Web3 powered public data provenance for sectoral collaboration. 
+
+### **3. Learning & reflection resources**  
+Lived lessons, distilled into practical resources that colleagues can reuse.
+
+- Visual frameworks for thinking 
+- Micro insights & checklists for fast, inclusive collaboration 
 
 ---
 
 ## Principles
 
-The way I work is shaped by systems thinking, evidence, and responsible innovation.
+The way I work with AI and emeging tech is shaped by systems thinking, evidence, and responsible innovation.
 
 - Always human led  
 - Clear before clever  
