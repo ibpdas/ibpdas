@@ -18,7 +18,7 @@ This site is my micro lab for learning, experimenting and sharing.
 
 Everything here is created in my own time to explore ideas, document approaches and spark conversations.
 
-> None of the projects here are official tools or departmental products.
+_None of the projects here are official tools or departmental products._
 
 ---
 
@@ -26,7 +26,7 @@ Everything here is created in my own time to explore ideas, document approaches 
 
 I design tools, frameworks and insights that help me think clearly, deliver strategically and learn openly.
 
-> I share these resources so others can learn, adapt and build on them. All views are my own.
+I share these resources so others can learn, adapt and build on them. All views are my own.
 
 ### **1. Data strategy & impact tools**  
 Align public service priorities, data foundations, performance and impact.
