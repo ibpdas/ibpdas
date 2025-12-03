@@ -11,6 +11,7 @@
 ## Hi, I'm Bandhu 👋
 
 I work at the intersection of data, AI and public sector delivery.  
+
 My focus is turning complex data and emerging technologies into practical, safe and high impact outcomes.
 
 This site is my micro lab for learning, exploring and sharing.
@@ -49,7 +50,7 @@ Lived lessons, distilled into practical resources that colleagues can reuse.
 
 ## Principles
 
-The way I work with AI and emerging tech is shaped by systems thinking, evidence and responsible innovation.
+The way I work with AI and emerging technologies is shaped by systems thinking, evidence and responsible innovation.
 
 - Always human led  
 - Clear before clever  
