@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Strategy-005EA5" />
-  <img src="https://img.shields.io-badge/AI%20%26%20Agents-412991" />
-  <img src="https://img.shields.io-badge/Public%20Good-1A8F5A" />
   <img src="https://img.shields.io/badge/Systems%20Thinking-4C2C92" />
   <img src="https://img.shields.io/badge/Open%20Learning-0A7E8C" />
 </p>
